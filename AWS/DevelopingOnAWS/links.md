@@ -9,6 +9,8 @@
 
 ## Module 3: Getting Started with Development on AWS
 
+### Websites
+
 - [Amazon S3 API Reference](https://docs.aws.amazon.com/AmazonS3/latest/API/Type_API_Reference.html)
 - [Create bucket API Reference](https://docs.aws.amazon.com/AmazonS3/latest/API/API_CreateBucket.html)
 - [HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
@@ -23,11 +25,17 @@
 - AWS SDK for .NET, [Advanced configuration](https://docs.aws.amazon.com/sdk-for-net/v3/developer-guide/net-dg-advanced-config.html)
 - Enabling Metrics for the AWS SDK for [Java](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/metrics.html)
 - [CodeWhisperer](https://docs.aws.amazon.com/codewhisperer/latest/userguide/getting-started.html) user guide
+
+- Getting started with [CodeWhisperer](https://aws.amazon.com/codewhisperer/resources/)
+
+### Videos
+
 - CodeWhisperer [demo](https://youtu.be/qu67bvH2Y08)
 - CodeWhisperer security scan [demo](https://youtu.be/GkZ4bT4DMwU)
-- Getting started with [CodeWhisperer](https://aws.amazon.com/codewhisperer/resources/)
-- Getting Started with CodeWhisperer on [AWS Skill Builder](https://explore.skillbuilder.aws/learn/course/external/view/elearning/16405/amazon-codewhisperer-getting-started)
 
+### Courses
+
+- Getting Started with CodeWhisperer on [AWS Skill Builder](https://explore.skillbuilder.aws/learn/course/external/view/elearning/16405/amazon-codewhisperer-getting-started)
 
 ### AWS SDK
 
@@ -58,7 +66,6 @@
 - [AWS SDK for Rust](https://aws.amazon.com/sdk-for-rust/)
 - [AWS SDK for Kotlin](https://aws.amazon.com/sdk-for-kotlin/)
 
-
 #### API references
 
 - [AWS CLI](https://docs.aws.amazon.com/pt_br/cli/latest/index.html)
@@ -67,7 +74,52 @@
 - [AWS SDK for .NET](https://docs.aws.amazon.com/sdkfornet/v3/apidocs)
 
 ## Module 4:
+
+### Websites
+- [IAM Identities](https://docs.aws.amazon.com/IAM/latest/UserGuide/id.html)
+- Creating your first [IAM admin user and user group](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-admin-group.html)
+- Identity-based policies and resource-based [policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_identity-vs-resource.html)
+- AWS IAM [User Guide](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_job-functions.html)
+- [IAM roles](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html)
+- [AWS service role](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_terms-and-concepts.html#iam-term-service-role)
+- [Role delegation](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_for-service.html)
+- Common IAM [scenarios](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_common-scenarios_aws-accounts.html)
+- Policy evaluation [logic](http://docs.aws.amazon.com/IAM/latest/UserGuide/AccessPolicyLanguage_EvaluationLogic.html)
+- CLI Configuration and credential file [settings](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html)
+- PowerUserAccess [policy](https://console.aws.amazon.com/iam/home#/policies/arn:aws:iam::aws:policy/PowerUserAccess) (requires you to log in)
+- AdministratorAccess [policy](https://console.aws.amazon.com/iam/home#/policies/arn:aws:iam::aws:policy/AdministratorAccess) (requires you to log in)
+- [Configure the AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html)
+- Setting AWS credentials for the AWS Toolkit for [JetBrains](https://docs.aws.amazon.com/toolkit-for-jetbrains/latest/userguide/setup-credentials.html)
+- Set up AWS Credentials for [Eclipse](https://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/setup-credentials.html)
+- Creating profiles for your AWS credentials in [Visual Studio](https://docs.aws.amazon.com/toolkit-for-visual-studio/latest/user-guide/keys-profiles-credentials.html)
+- Setting up your AWS credentials [Visual Studio Code](https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/setup-credentials.html)
+- Global settings for config and credentials [files](https://docs.aws.amazon.com/sdkref/latest/guide/settings-global.html)
+- Supported environment [variables](https://docs.aws.amazon.com/sdkref/latest/guide/environment-variables.html)
+- Working with AWS Credentials in [Java](https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/credentials.html)
+- Configuring AWS Credentials [.NET](https://docs.aws.amazon.com/sdk-for-net/v3/developer-guide/net-dg-config-creds.html)
+- Credentials in [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/credentials.html)
+- Signature Version 4 signing [process](https://docs.aws.amazon.com/general/latest/gr/signature-version-4.html)
+- Signing AWS API [requests](http://docs.aws.amazon.com/general/latest/gr/signing_aws_api_requests.html)
+- Temporary security credentials in [IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp.html)
+- Actions in the [AWS Security Token Service](https://docs.aws.amazon.com/STS/latest/APIReference/API_Operations.html)
+- Using temporary security credentials with the [AWS SDKs](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_use-resources.html#using-temp-creds-sdk)
+- instance profiles and temporary [credentials](https://docs.aws.amazon.com/cloud9/latest/user-guide/credentials.html#credentials-temporary)
+- Calling AWS services from an environment in [AWS Cloud9](https://docs.aws.amazon.com/cloud9/latest/user-guide/credentials.html)
+- Create and store permanent access credentials in an [Environment](https://docs.aws.amazon.com/cloud9/latest/user-guide/credentials.html#credentials-permanent-create)
+- EC2 environments compared with SSH environments in [AWS Cloud9](https://docs.aws.amazon.com/cloud9/latest/user-guide/ec2-env-versus-ssh-env.html)
+- Setting the JVM TTL for [DNS Name Lookups](https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/java-dg-jvm-ttl.html)
+- Environment variables to configure the [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-envvars.html)
+- Error retries and [exponential backoff](https://docs.aws.amazon.com/general/latest/gr/api-retries.html)
+- [Cross-account access](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_common-scenarios_aws-accounts.html)
+
 ## Module 5:
+
+### Websites
+
+### Videos
+
+### Courses
+
 ## Module 6:
 ## Module 7:
 ## Module 8:
