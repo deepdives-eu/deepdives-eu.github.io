@@ -73,7 +73,7 @@
 - [AWS SDK for Java](https://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/overview-summary.html)
 - [AWS SDK for .NET](https://docs.aws.amazon.com/sdkfornet/v3/apidocs)
 
-## Module 4:
+## Module 4: Getting Started with Permissions (IAM)
 
 ### Websites
 - [IAM Identities](https://docs.aws.amazon.com/IAM/latest/UserGuide/id.html)
@@ -112,16 +112,53 @@
 - Error retries and [exponential backoff](https://docs.aws.amazon.com/general/latest/gr/api-retries.html)
 - [Cross-account access](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_common-scenarios_aws-accounts.html)
 
-## Module 5:
+## Module 5: Getting Started with Storage (S3)
+
+### Websites
+- [S3 Express One Zone](https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-express-one-zone.html)
+- Amazon S3 Transfer Acceleration [speed demo](http://s3-accelerate-speedtest.s3-accelerate.amazonaws.com/en/accelerate-speed-comparsion.html)
+- Bucket [restrictions and limitations](https://docs.aws.amazon.com/AmazonS3/latest/dev/BucketRestrictions.html)
+- Organizing objects using [prefixes](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ListingKeysUsingAPIs.html)
+- Tagging [Best Practices](https://d1.awsstatic.com/whitepapers/aws-tagging-best-practices.pdf)
+- Access policy [guidelines](https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-policy-alternatives-guidelines.html)
+- Common [S3 Request Headers](https://docs.aws.amazon.com/AmazonS3/latest/API/RESTCommonRequestHeaders.html)
+- Common [S3 Response Headers](https://docs.aws.amazon.com/AmazonS3/latest/API/RESTCommonResponseHeaders.html)
+
+## Module 6: Processing Your Storage Operations (S3)
 
 ### Websites
 
+- AWS CLI [multipart upload](https://aws.amazon.com/premiumsupport/knowledge-center/s3-multipart-upload-cli/)
+- Using Amazon S3 [storage classes](https://docs.aws.amazon.com/AmazonS3/latest/dev/ChgStoClsOfObj.html)
+- static website hosting on [Amazon S3](https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-serve-static-website/)
+- CloudFront and [HTTPS](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/using-https-viewers-to-cloudfront.html)
+- Using cross-origin resource sharing [CORS](https://docs.aws.amazon.com/AmazonS3/latest/dev/cors.html)
+- CORS [configuration](https://docs.aws.amazon.com/AmazonS3/latest/dev/ManageCorsUsing.html)
+
+## Module 7: Getting Started with Databases (DynamoDB)
+
+### Websites
+
+- [Partitions and Data Distribution](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.Partitions.html)
+- Working with Tables and Data in [DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/WorkingWithTables.html)
+- DynamoDB [data model](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.Partitions.html)
+- DynamoDB [limits](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Limits.html
+)
+- Secondary [indexes](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SecondaryIndexes.html)
+- DynamoDB [Adaptive Capacity](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-partition-key-design.html)
+- [NoSQL Workbench](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.html
+)
+- Setting up [DynamoDB Local](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html)
+- [PartiQL](https://partiql.org/)
+- PartiQL for [DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/ql-reference.html)
+- Overview of AWS SDK Support for [DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Programming.SDKOverview.html)
+- Creating service [clients](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/using.html) in Java
+
 ### Videos
 
-### Courses
+- Advanced DynamoDB [design patterns](https://www.youtube.com/watch?v=xfxBhvGpoa0)
+- DynamoDB core concept [videos](https://www.youtube.com/playlist?list=PLJo-rJlep0EDNtcDeHDMqsXJcuKMcrC5F)
 
-## Module 6:
-## Module 7:
 ## Module 8:
 ## Module 9:
 ## Module 10:
