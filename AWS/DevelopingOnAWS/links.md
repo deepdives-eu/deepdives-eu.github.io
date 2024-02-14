@@ -160,7 +160,32 @@
 - DynamoDB core concept [videos](https://www.youtube.com/playlist?list=PLJo-rJlep0EDNtcDeHDMqsXJcuKMcrC5F)
 
 ## Module 8:
-## Module 9:
+
+### Websites
+
+- Service, Account, and Table [Quotas](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/ServiceQuotas.html)
+- [PutItem](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_PutItem.html)
+- [BatchWriteItem](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_BatchWriteItem.html)
+- [Paginating](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Query.Pagination.html) Table Query Results
+- [Parallel Scan](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Scan.html#Scan.ParallelScan)
+- Parallel Scan [best practices](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-query-scan.html)
+- Working with DynamoDB Tables in [Java](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/JavaDocumentAPIWorkingWithTables.html)
+
+## Module 9: Processing Your Application Logic (Lambda)
+
+### Websites
+
+- Schedule AWS Lambda functions using [EventBridge](https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-run-lambda-schedule.html)
+- Lambda [SnapStart](https://docs.aws.amazon.com/lambda/latest/dg/snapstart.html)
+- [AddPermission](http://docs.aws.amazon.com/lambda/latest/dg/API_AddPermission.html)
+- AWS Lambda [permissions](http://docs.aws.amazon.com/lambda/latest/dg/intro-permission-model.html)
+- [CreateEventSourceMapping](http://docs.aws.amazon.com/lambda/latest/dg/API_CreateEventSourceMapping.html)
+- Using Lambda with the Toolkit for [Eclipse](http://docs.aws.amazon.com/AWSToolkitEclipse/latest/GettingStartedGuide/lambda.html)
+- AWS Toolkit for [Visual Studio](https://docs.aws.amazon.com/lambda/latest/dg/csharp-package-toolkit.html)
+- AWS Toolkit for PyCharm in the [Jet Brains Marketplace](https://plugins.jetbrains.com/plugin/11349-aws-toolkit)
+- Lambda [quotas](https://docs.aws.amazon.com/lambda/latest/dg/limits.html)
+- Lambda [runtimes](https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html)
+
 ## Module 10:
 ## Module 11:
 ## Module 12:
