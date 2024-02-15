@@ -74,7 +74,7 @@ Lab recording playlist <https://www.youtube.com/playlist?list=PLbOwD4pDuqPaf2v-F
 - How to use the Google Cloud Console <https://www.youtube.com/watch?v=27Pb5g7bEAA>
 - The Cloud Console Tour <https://www.youtube.com/watch?v=FsbYh47q55o>
 - Developer and Management Tools <https://www.youtube.com/watch?v=3v9XWdFyh2E>
-- Cloud SDK: Essential Command-Line Tools for Google Cloud Platform | Google Cloud Labs <https://www.youtube.com/watch?v=69MdTXgA6Ws>
+- Cloud SDK: Essential Command-Line Tools for Google Cloud Platform - Google Cloud Labs <https://www.youtube.com/watch?v=69MdTXgA6Ws>
 - CLI for GCP <https://www.youtube.com/watch?v=D0x6B-4oUNM>
 - How to use the BigQuery command-line tool <https://www.youtube.com/watch?v=2XwDPPazX6o>
 - Using Google Cloud Shell <https://www.youtube.com/watch?v=hBMcAKzGt3w>
@@ -139,3 +139,39 @@ Lab recording playlist <https://www.youtube.com/playlist?list=PLbOwD4pDuqPaf2v-F
   - very similar lab is available at <https://www.cloudskillsboost.google/focuses/1229> (cost 1 credit)
   - recording of lab <https://youtu.be/yWktOy668vE>
 
+## Module 04: Storage in the Cloud
+
+### Websites
+- Cloud Storage <https://cloud.google.com/storage?hl=en>
+- Storage Transfer Service <https://cloud.google.com/storage-transfer-service?hl=en>
+- Transfer Appliance <https://cloud.google.com/transfer-appliance/docs/4.0/overview>
+- Google Cloud SQL <https://cloud.google.com/sql?hl=en>
+- Spanner <https://cloud.google.com/spanner?hl=en>
+- Cloud Firestore <https://firebase.google.com/docs/firestore>
+- Firestore data model <https://cloud.google.com/firestore/docs/data-model>
+- Bigtable <https://cloud.google.com/bigtable?hl=en>
+- Google Cloud online storage products <https://cloud.google.com/products/storage?hl=en>
+
+### Videos
+- Difference between object store, block store and file store - Google Cloud Storage options <https://www.youtube.com/watch?v=uvyerY_dHJk>
+- How to store data on Google Cloud <https://www.youtube.com/watch?v=w2mL4sUOjVo>
+- Cloud Storage in a minute <https://www.youtube.com/watch?v=wNOs3LlsH6k>
+- How does storage work across Google data centers? <https://www.youtube.com/watch?v=073GYKU5z60>
+- What is Storage Transfer Service? <https://www.youtube.com/watch?v=1oIw2mT_4-M>
+- Introducing Google Cloud's Transfer Appliance <https://www.youtube.com/watch?v=4g2ntSRU2pI>
+- Cloud SQL in a minute <https://www.youtube.com/watch?v=ZMQ2n6i-7jw>
+- What is Cloud SQL? <https://www.youtube.com/watch?v=Kl8ig2BtLAY>
+- Cloud Spanner in a minute <https://www.youtube.com/watch?v=5bjYk6Hhd10>
+- What is Cloud Spanner? <https://www.youtube.com/watch?v=bUSU1e9j8wc>
+- Firestore in a minute <https://www.youtube.com/watch?v=IemOAESlWKw>
+- Introducing Cloud Firestore <https://www.youtube.com/watch?list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL&v=QcsAb2RR52c>
+- Bigtable in one minute <https://www.youtube.com/watch?v=Lq9uDOM4whI>
+- What is Cloud Bigtable? <https://www.youtube.com/watch?v=P4q4nqJAamo>
+
+### Courses
+- Deep Dives - Google Cloud Storage <https://www.youtube.com/playlist?list=PLbOwD4pDuqPbqv_DbqiDOqiSYYSXdY3Cs>
+
+### Labs
+
+3. Getting Started with Cloud Storage and Cloud SQL
+  - recording of lab <>
