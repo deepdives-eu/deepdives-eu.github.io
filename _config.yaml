@@ -1,3 +1,6 @@
-remote_theme: pages-themes/time-machine@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+title: deepdives.eu course additional material
+description: Links to additional materials for students of deepdives.eu courses
+
