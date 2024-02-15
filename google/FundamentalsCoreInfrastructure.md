@@ -175,3 +175,19 @@ Lab recording playlist <https://www.youtube.com/playlist?list=PLbOwD4pDuqPaf2v-F
 
 3 Getting Started with Cloud Storage and Cloud SQL
   - recording of lab <https://youtu.be/1-o8_dmKsSg>
+
+## Module 05: Containers in the Cloud
+
+### Websites
+- What are containers? <https://cloud.google.com/learn/what-are-containers>
+- Containers in Cloud <https://cloud.google.com/containers?hl=en>
+- Kubernetes <https://kubernetes.io>
+- Google Kubernetes Engine (GKE) <https://cloud.google.com/kubernetes-engine?hl=en>
+
+### Videos
+- Top 3 ways to run your containers on Google Cloud <https://www.youtube.com/watch?v=jh0fPT-AWwM>
+- What is Google Kubernetes Engine (GKE)? <https://www.youtube.com/watch?v=Rl5M1CzgEH4>
+- Why choose Google Kubernetes Engine? <https://www.youtube.com/watch?v=dt2NjPIISdA>
+- Introducing GKE Autopilot <https://www.youtube.com/watch?v=_JKsv2BtAnY>
+
+## Module 06: Applications in the Cloud
