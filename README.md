@@ -10,6 +10,7 @@ In case you notice any stale links or mistakes in the material, please consider 
 
 ## Amazon Web Services
 - Developing on AWS [links](AWS/DevelopingOnAWS/links.md)
-## Google Cloud
 
-- Getting Started with Google
+## Google Cloud
+- Google Cloud Fundamentals: Core Infrastructure [links](google/FundamentalsCoreInfrastructure.md)
+
