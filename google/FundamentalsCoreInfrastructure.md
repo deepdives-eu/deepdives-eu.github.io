@@ -81,8 +81,61 @@ Lab recording playlist <https://www.youtube.com/playlist?list=PLbOwD4pDuqPaf2v-F
 - Intro to Cloud Shell Editor <https://www.youtube.com/watch?v=tPnCfLaQmvk>
 
 ### Labs
+
 1. Getting Started with Cloud Marketplace
   - very similar is available at <https://www.cloudskillsboost.google/focuses/565> (cost 1 credit)
   - recording of lab <https://youtu.be/eE2WXxiTgL8>
 
-## Module 03: 
+## Module 03: Virtual Machines and Networks in the Cloud
+
+### Websites
+- Virtual Private Cloud (VPC) <https://cloud.google.com/vpc?hl=en>
+- Google Compute Engine <https://cloud.google.com/products/compute?hl=en>
+- Google Cloud Marketplace <https://cloud.google.com/marketplace?hl=en>
+- Compute Engine pricing <https://cloud.google.com/compute/all-pricing>
+- Compute Engine Storage options <https://cloud.google.com/compute/docs/disks>
+- Available VM machine types <https://cloud.google.com/compute/docs/machine-types>
+- Routes <https://cloud.google.com/vpc/docs/routes>
+- VPC Network Peering <https://cloud.google.com/vpc/docs/vpc-peering>
+- Shared VPC <https://cloud.google.com/vpc/docs/shared-vpc>
+- Cloud Load Balancing <https://cloud.google.com/load-balancing?hl=en>
+- Choose a load balancer <https://cloud.google.com/load-balancing/docs/choosing-load-balancer>
+- Cloud DNS <https://cloud.google.com/dns?hl=en>
+- Cloud CDN and Media CDN <https://cloud.google.com/cdn?hl=en>
+- Cloud VPN <https://cloud.google.com/network-connectivity/docs/vpn>
+- Direct Peering overview <https://cloud.google.com/network-connectivity/docs/direct-peering>
+- Carrier Peering overview <https://cloud.google.com/network-connectivity/docs/carrier-peering>
+- Dedicated Interconnect overview <https://cloud.google.com/network-connectivity/docs/interconnect/concepts/dedicated-overview>
+- Partner Interconnect overview <https://cloud.google.com/network-connectivity/docs/interconnect/concepts/partner-overview>
+- Cross-Cloud Interconnect overview <https://cloud.google.com/network-connectivity/docs/interconnect/concepts/cci-overview>
+
+### Videos
+- Virtual Private Cloud in a minute <https://www.youtube.com/watch?v=hS_uvz4ohbo>
+- What is Compute Engine? <https://www.youtube.com/watch?v=KBeyQHoAcrQ>
+- Compute Engine in a minute <https://www.youtube.com/watch?v=IuK4gQeHRcI>
+- Compute Engine: The best home for your applications <https://www.youtube.com/watch?v=YPWv-Ln9IPw>
+- Building with Google Cloud Marketplace <https://www.youtube.com/watch?v=7JSbPEqIU7I>
+- Discover Google Cloud Marketplace <https://www.youtube.com/watch?v=H8rRUUxoxoM>
+- Optimizing your costs on Compute Engine <https://www.youtube.com/watch?v=25FMGTbHRAA>
+- Persistent Disk in a minute <https://www.youtube.com/watch?v=zovhVfou-DI>
+- Choosing the right VM family type for your workload <https://www.youtube.com/watch?v=6dbqgQDaw1U>
+- Application capacity optimizations with global load balancing <https://www.youtube.com/watch?v=jovQpk3eIr8>
+- Define new paths with routing <https://www.youtube.com/watch?v=HrozwscLY20>
+- Simplify routing with VPC Peering <https://www.youtube.com/watch?v=4UQacCynuFU>
+- Centralize control with Shared VPC <https://www.youtube.com/watch?v=WotV3D01tJA>
+- What is Cloud Load Balancing? <https://www.youtube.com/watch?v=h8EqM6Xt3MA>
+- Introduction to Load Balancing <https://www.youtube.com/watch?v=FtLhVvSFi84>
+- Choosing the right load balancer <https://www.youtube.com/watch?v=gdeOeu4E7eQ>
+- What is Cloud CDN? <https://www.youtube.com/watch?v=841kyd_mfH0>
+- Google Cloud CDN in a minute <https://www.youtube.com/watch?v=azbxckHW9oU>
+- Getting started with Cloud CDN <https://www.youtube.com/watch?v=ftocllBHpe0>
+- Introducing Media CDN <https://www.youtube.com/watch?v=N_TBfQU7eJE>
+- Upgrade to Google’s HA VPN to get industry-leading availability for mission-critical workloads <https://www.youtube.com/watch?v=lIEExVWf5bg>
+- Hybrid Networking: Google Cloud Interconnect <https://www.youtube.com/watch?v=cKaryf7qp9w>
+
+### Labs
+
+2. Getting Started with VPC Networking and Google Compute Engine
+  - very similar lab is available at <https://www.cloudskillsboost.google/focuses/1229> (cost 1 credit)
+  - recording of lab <https://youtu.be/yWktOy668vE>
+
