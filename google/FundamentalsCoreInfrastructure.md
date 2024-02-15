@@ -82,7 +82,7 @@ Lab recording playlist <https://www.youtube.com/playlist?list=PLbOwD4pDuqPaf2v-F
 
 ### Labs
 
-1. Getting Started with Cloud Marketplace
+1 Getting Started with Cloud Marketplace
   - very similar is available at <https://www.cloudskillsboost.google/focuses/565> (cost 1 credit)
   - recording of lab <https://youtu.be/eE2WXxiTgL8>
 
@@ -135,7 +135,7 @@ Lab recording playlist <https://www.youtube.com/playlist?list=PLbOwD4pDuqPaf2v-F
 
 ### Labs
 
-2. Getting Started with VPC Networking and Google Compute Engine
+2 Getting Started with VPC Networking and Google Compute Engine
   - very similar lab is available at <https://www.cloudskillsboost.google/focuses/1229> (cost 1 credit)
   - recording of lab <https://youtu.be/yWktOy668vE>
 
@@ -173,5 +173,5 @@ Lab recording playlist <https://www.youtube.com/playlist?list=PLbOwD4pDuqPaf2v-F
 
 ### Labs
 
-3. Getting Started with Cloud Storage and Cloud SQL
+3 Getting Started with Cloud Storage and Cloud SQL
   - recording of lab <https://youtu.be/1-o8_dmKsSg>
