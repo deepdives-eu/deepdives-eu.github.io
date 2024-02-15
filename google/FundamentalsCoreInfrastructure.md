@@ -174,4 +174,4 @@ Lab recording playlist <https://www.youtube.com/playlist?list=PLbOwD4pDuqPaf2v-F
 ### Labs
 
 3. Getting Started with Cloud Storage and Cloud SQL
-  - recording of lab <>
+  - recording of lab <https://youtu.be/1-o8_dmKsSg>
