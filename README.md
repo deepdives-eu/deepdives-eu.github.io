@@ -12,5 +12,5 @@ In case you notice any stale links or mistakes in the material, please consider 
 - [Developing on AWS](AWS/DevelopingOnAWS.md)
 
 ## Google Cloud
-- Google Cloud Fundamentals: Core Infrastructure [links](google/FundamentalsCoreInfrastructure.md)
+- [Google Cloud Fundamentals: Core Infrastructure](google/FundamentalsCoreInfrastructure.md)
 
