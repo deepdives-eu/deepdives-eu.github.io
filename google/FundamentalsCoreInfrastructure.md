@@ -35,7 +35,6 @@ Lab recording playlist <https://www.youtube.com/playlist?list=PLbOwD4pDuqPaf2v-F
 - Custom machine types <https://cloud.google.com/custom-machine-types/>
 - Google Cloud pricing calculator <https://cloud.google.com/products/calculator?hl=en>
 
-
 ### Videos
 
 - What is Google Cloud? <https://www.youtube.com/watch?v=kzKFuHk8ovk>
@@ -43,7 +42,7 @@ Lab recording playlist <https://www.youtube.com/playlist?list=PLbOwD4pDuqPaf2v-F
 - How are data centers powered sustainably? <https://www.youtube.com/watch?v=UFK4hqeRhIc>
 - Google celebrates 10 years in Hamina, Finland <https://www.youtube.com/watch?v=_sFv_VpHzYk>
 - Google Infrastructure Security <https://www.youtube.com/watch?v=UOdUC8DhprQ>
-
+- Get started docs and resources for Google Cloud <https://www.youtube.com/watch?v=ytq5VKDtWCw>
 
 ## Module 02: Resources and Access in the Cloud
 
@@ -191,3 +190,30 @@ Lab recording playlist <https://www.youtube.com/playlist?list=PLbOwD4pDuqPaf2v-F
 - Introducing GKE Autopilot <https://www.youtube.com/watch?v=_JKsv2BtAnY>
 
 ## Module 06: Applications in the Cloud
+
+### Websites
+- Cloud Run <https://cloud.google.com/run?hl=en>
+- Cloud Functions <https://cloud.google.com/functions?hl=en>
+
+### Videos
+- Cloud Run in a minute <https://www.youtube.com/watch?v=AL2rAmWFZjM>
+- Say hello to serverless containers with Cloud Run <https://www.youtube.com/watch?v=nhwYc4StHIc>
+- Moving serverless forward with Cloud Run <https://www.youtube.com/watch?v=R3YF8uly_gw>
+- Introduction to Cloud Run <https://www.youtube.com/watch?v=1t94tdyojs0>
+- Cloud Functions in a minute <https://www.youtube.com/watch?v=BL4ZlPEamDo>
+- Introducing Cloud Functions (2nd gen) <https://www.youtube.com/watch?v=ATBDTTM-Ohk>
+- Cloud Functions 2nd gen walkthrough <https://www.youtube.com/watch?v=N6pMppfU2aQ>
+
+### Labs
+
+4 Hello Cloud Run
+  - recording of lab <https://youtu.be/oyZwo7kol40>
+
+## Module 07: Course Summary
+
+### Courses for further study
+
+- Cloud Engineer learning path <https://cloud.google.com/learn/training/cloud-infrastructure#cloud-engineer-learning-path>
+- Cloud Architect learning path <https://cloud.google.com/learn/training/cloud-infrastructure#cloud-architect-learning-path>
+- Cloud Developer learning path <https://cloud.google.com/learn/training/application-development#cloud-developer-learning-path>
+- Cloud DevOps Engineer learning path <https://cloud.google.com/learn/training/application-development#cloud-devOps-engineer-learning-path>
