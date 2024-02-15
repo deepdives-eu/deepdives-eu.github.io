@@ -43,6 +43,7 @@ Lab recording playlist <https://www.youtube.com/playlist?list=PLbOwD4pDuqPaf2v-F
 - Google celebrates 10 years in Hamina, Finland <https://www.youtube.com/watch?v=_sFv_VpHzYk>
 - Google Infrastructure Security <https://www.youtube.com/watch?v=UOdUC8DhprQ>
 - Get started docs and resources for Google Cloud <https://www.youtube.com/watch?v=ytq5VKDtWCw>
+- Next '23 Opening Keynote: The New Way to Cloud <https://www.youtube.com/watch?v=lEUS3_Qjyjg>
 
 ## Module 02: Resources and Access in the Cloud
 
