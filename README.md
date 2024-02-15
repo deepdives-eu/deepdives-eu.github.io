@@ -9,7 +9,7 @@ The repo licensed under the CC-BY-SA 4.0 license, so can be used by anyone as lo
 In case you notice any stale links or mistakes in the material, please consider making a pull request. We will be updating the site on a best effort basis.
 
 ## Amazon Web Services
-- Developing on AWS [links](AWS/DevelopingOnAWS/links.md)
+- [Developing on AWS](AWS/DevelopingOnAWS.md)
 
 ## Google Cloud
 - Google Cloud Fundamentals: Core Infrastructure [links](google/FundamentalsCoreInfrastructure.md)
