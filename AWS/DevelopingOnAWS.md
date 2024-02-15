@@ -76,6 +76,7 @@
 ## Module 4: Getting Started with Permissions (IAM)
 
 ### Websites
+
 - [IAM Identities](https://docs.aws.amazon.com/IAM/latest/UserGuide/id.html)
 - Creating your first [IAM admin user and user group](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-admin-group.html)
 - Identity-based policies and resource-based [policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_identity-vs-resource.html)
@@ -115,6 +116,7 @@
 ## Module 5: Getting Started with Storage (S3)
 
 ### Websites
+
 - [S3 Express One Zone](https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-express-one-zone.html)
 - Amazon S3 Transfer Acceleration [speed demo](http://s3-accelerate-speedtest.s3-accelerate.amazonaws.com/en/accelerate-speed-comparsion.html)
 - Bucket [restrictions and limitations](https://docs.aws.amazon.com/AmazonS3/latest/dev/BucketRestrictions.html)
@@ -186,9 +188,90 @@
 - Lambda [quotas](https://docs.aws.amazon.com/lambda/latest/dg/limits.html)
 - Lambda [runtimes](https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html)
 
-## Module 10:
-## Module 11:
-## Module 12:
+## Module 10: Managing the APIs (API Gateway)
+
+### Websites
+
+- Setting up a stage for a [REST API](https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-stages.html)
+- Creating and using usage plans with [API keys](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-api-usage-plans.html)
+- [Throttle](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-request-throttling.html) API requests for better throughput
+- API Gateway [quotas](https://docs.aws.amazon.com/apigateway/latest/developerguide/limits.html)
+- [Access management](https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-control-access-to-api.html)
+- Setting up data transformations for [REST APIs](https://docs.aws.amazon.com/apigateway/latest/developerguide/rest-api-data-transformations.html)
+- Generating an SDK for a REST API in [API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-generate-sdk.html)
+- [mock integrations](https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-mock-integration.html)
+- [API caching](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-caching.html)
+- [Troubleshooting](https://aws.amazon.com/blogs/compute/troubleshooting-amazon-api-gateway-with-enhanced-observability-variables/) Amazon API Gateway
+- [Security](https://docs.aws.amazon.com/apigateway/latest/developerguide/security.html) in Amazon API Gateway
+- Integration [passthrough](https://docs.aws.amazon.com/apigateway/latest/developerguide/integration-passthrough-behaviors.html) behavior
+- Mapping templates with [Velocity Template Language (VTL)](https://docs.aws.amazon.com/apigateway/latest/developerguide/models-mappings.html)
+- VTL [best practices](https://aws.amazon.com/blogs/compute/best-practices-for-working-with-the-apache-velocity-template-language-in-amazon-api-gateway/)
+- [Swagger extensions](https://swagger.io/docs/specification/2-0/swagger-extensions/?sbsearch=AWS%20API%20Gateway)
+- Set up [mock integrations](https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-mock-integration.html) in API Gateway
+- Setting up [stage variables](https://docs.aws.amazon.com/apigateway/latest/developerguide/stage-variables.html)
+- Performing [canary deployments](https://aws.amazon.com/blogs/compute/performing-canary-deployments-for-service-integrations-with-amazon-api-gateway/)
+
+## Module 11: Building a Modern Application
+
+### Websites
+
+- [Microservices](https://en.wikipedia.org/wiki/Microservices)
+- [Serverless on AWS](https://aws.amazon.com/serverless/)
+- Iterating a Loop Using [Lambda](https://docs.aws.amazon.com/step-functions/latest/dg/tutorial-create-iterate-pattern-section.html)
+
+
+### Courses
+- [Advanced Developing on AWS](https://aws.amazon.com/training/classroom/advanced-developing-on-aws/)
+
+## Module 12: Granting Access to Your Application Users
+
+### Websites
+
+- [Integrating](https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-integrate-apps.html) Amazon Cognito With Web and Mobile Apps
+- Understanding Amazon Cognito Authentication [Part 1](https://aws.amazon.com/blogs/mobile/understanding-amazon-cognito-authentication/)
+- Understanding Amazon Cognito Authentication [Part 2](https://aws.amazon.com/blogs/mobile/understanding-amazon-cognito-authentication-part-2-developer-authenticated-identities/)
+- Understanding Amazon Cognito Authentication [Part 3](https://aws.amazon.com/blogs/mobile/understanding-amazon-cognito-authentication-part-3-roles-and-policies/)
+- Understanding Amazon Cognito Authentication [Part 4](https://aws.amazon.com/blogs/mobile/understanding-amazon-cognito-authentication-part-4-enhanced-flow/)
+- [Amazon Cognito Resources](https://aws.amazon.com/cognito/dev-resources/)
+
 ## Module 13:
-## Module 14:
-## Module 15:
+
+### Websites
+- What is [DevOps?](https://aws.amazon.com/devops/what-is-devops/)
+- AWS SAM [template anatomy](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-specification-template-anatomy.html)
+- Controlling access to an API with API Gateway [resource policies](https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-resource-policies.html)
+- Controlling access to API Gateway [APIs](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-controlling-access-to-apis.html)
+- Installing the [AWS SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html)
+- Create a deployment configuration with [CodeDeploy](https://docs.aws.amazon.com/codedeploy/latest/userguide/deployment-configurations-create.html)
+- [Deployment configurations](https://docs.aws.amazon.com/codedeploy/latest/userguide/deployment-configurations.html#deployment-configuration-lambda) on Lambda
+
+
+## Module 14: Observing Your Application
+
+### Websites
+
+- [CloudWatch alarms](https://docs.aws.amazon.com/AmazonCloudWatch/latest/DeveloperGuide/AlarmThatSendsEmail.html)
+- Metrics [collected](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/metrics-collected-by-CloudWatch-agent.html) by the CloudWatch agent
+- What is [AWS X-Ray?](https://docs.aws.amazon.com/xray/latest/devguide/aws-xray.html)
+
+## Module 15: Course Wrap-Up
+
+### Websites
+
+- Serverless Architectures with [AWS Lambda](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf)
+- How AWS [Pricing](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/welcome.html) Works
+- Back to [Basics](https://aws.amazon.com/architecture/back-to-basics/?tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc&awsf.categories=*all&awsm.page-tma=2)
+- [AWS Support](https://aws.amazon.com/premiumsupport/)
+- AWS Certification [exam preparation](https://aws.amazon.com/certification/certification-prep/)
+- [AWS Certification](https://aws.amazon.com/certification/)
+- AWS Certification [exams](https://aws.amazon.com/certification/exams/)
+- [AWS Recertification](https://aws.amazon.com/certification/recertification/)
+
+### Courses
+
+- [Advanced Developing on AWS](https://www.aws.training/SessionSearch?pageNumber=1&courseId=36896&languageId=1)
+- [Developing Serverless Solutions on AWS](https://www.aws.training/SessionSearch?pageNumber=1&courseId=53785&languageId=1)
+- [Getting Started with DevOps on AWS](https://www.aws.training/Details/eLearning?id=66768) 
+- [AWS Cloud Development Kit Primer](https://www.aws.training/Details/Curriculum?id=64511)
+- [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
+- [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/)
