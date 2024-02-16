@@ -1,9 +1,22 @@
 # Developing on AWS course material links
 
+_Please not that this is not a prep course for the "AWS Certified Developer - Associate" certification!_
+
+This document contains links mentioned in the "Developing on AWS" course. 
+
 ## Module 1: Course Overview
 
-- The official course material: [eVantage Bookshelf (VitalSource)](https://evantage.gilmoreglobal.com)
-- Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
+Full name: Developing on AWS
+
+Product code: 200-DODEVA-45
+
+These links are based on the course version 4.5.3.
+
+Online and classroom course options: [Developing on AWS](https://www.aws.training/SessionSearch?pageNumber=1&courseId=10017&languageId=1)
+
+The official course material: [eVantage Bookshelf (VitalSource)](https://evantage.gilmoreglobal.com)
+
+Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 
 ## Module 2: Building a Web Application on AWS
 
@@ -161,7 +174,7 @@
 - Advanced DynamoDB [design patterns](https://www.youtube.com/watch?v=xfxBhvGpoa0)
 - DynamoDB core concept [videos](https://www.youtube.com/playlist?list=PLJo-rJlep0EDNtcDeHDMqsXJcuKMcrC5F)
 
-## Module 8:
+## Module 8: Processing Your Database Operations (DynamoDB)
 
 ### Websites
 
@@ -266,6 +279,8 @@
 - [AWS Certification](https://aws.amazon.com/certification/)
 - AWS Certification [exams](https://aws.amazon.com/certification/exams/)
 - [AWS Recertification](https://aws.amazon.com/certification/recertification/)
+- Schedule an [Exam](https://aws.amazon.com/certification/certification-prep/testing/)
+- [AWS Ramp-Up Guides](https://aws.amazon.com/training/ramp-up-guides/)
 
 ### Courses
 
@@ -273,5 +288,12 @@
 - [Developing Serverless Solutions on AWS](https://www.aws.training/SessionSearch?pageNumber=1&courseId=53785&languageId=1)
 - [Getting Started with DevOps on AWS](https://www.aws.training/Details/eLearning?id=66768) 
 - [AWS Cloud Development Kit Primer](https://www.aws.training/Details/Curriculum?id=64511)
-- [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
+- [AWS Skill Builder](https://aws.amazon.com/training/digital)
+- AWS Skill Builder [courses](https://explore.skillbuilder.aws/learn)
 - [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/)
+- [AWS Workshops](https://workshops.aws/)
+- [Classroom training](https://aws.amazon.com/training) 
+
+### Videos
+
+- [Tech Talks](https://aws.amazon.com/events/online-tech-talks/on-demand/)
