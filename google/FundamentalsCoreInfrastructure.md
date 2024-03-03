@@ -79,6 +79,7 @@ Lab recording playlist <https://www.youtube.com/playlist?list=PLbOwD4pDuqPaf2v-F
 - How to use the BigQuery command-line tool <https://www.youtube.com/watch?v=2XwDPPazX6o>
 - Using Google Cloud Shell <https://www.youtube.com/watch?v=hBMcAKzGt3w>
 - Intro to Cloud Shell Editor <https://www.youtube.com/watch?v=tPnCfLaQmvk>
+- Secure onboarding to Google Cloud with Identity and Access Management (IAM) - NeXT 2023 - <https://www.youtube.com/watch?v=r0bdcgEyxic>
 
 ### Labs
 
