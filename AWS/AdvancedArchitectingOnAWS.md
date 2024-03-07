@@ -154,33 +154,73 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 
 ### Websites
 
-### Courses
-
-### Videos
+- CodePipeline [User Guide](https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html)
+- Code Commit [User Guide](https://docs.aws.amazon.com/codecommit/latest/userguide/welcome.html)
+- CodeDeploy [User Guide](https://docs.aws.amazon.com/codedeploy/latest/userguide/welcome.html)
+- [Developer Tools on AWS (overview)](https://aws.amazon.com/products/developer-tools)
+- [Developer tools](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/developer-tools.html)
+- Getting started with [Amazon CodeWhisperer](https://docs.aws.amazon.com/codewhisperer/latest/userguide/getting-started.html)
+- CodeWhisperer [Resources](https://aws.amazon.com/codewhisperer/resources)
+- CodeWhisperer course in [Skill Builder](https://explore.skillbuilder.aws/learn/course/external/view/elearning/16405/amazon-codewhisperer-getting-started)
+- A small tutorial to [create a simple pipeline](https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-simple-s3.html)
+- CodePipeline [product integrations](https://aws.amazon.com/codepipeline/product-integrations)
+- [integrations](https://docs.aws.amazon.com/codedeploy/latest/userguide/integrations.html) with CodeDeploy
+- CodeDeploy [policy examples](https://docs.aws.amazon.com/codedeploy/latest/userguide/security_iam_id-based-policy-examples.html)
+- [Continuous Deployment](https://aws.amazon.com/blogs/compute/continuous-deployment-to-amazon-ecs-using-aws-codepipeline-aws-codebuild-amazon-ecr-and-aws-cloudformation/) using AWS CodePipeline
+- [What is DevOps?](https://aws.amazon.com/devops/what-is-devops/)
+- [Practicing Continuous Integration and Continuous Delivery on AWS](https://d0.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf)
+- [What can I do with CodePipeline?](https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome-what-can-I-do.html)
+- [Infrastructure as code (IaC)](https://docs.aws.amazon.com/whitepapers/latest/introduction-devops-aws/infrastructure-as-code.html)
+- [Blue/Green Deployments on AWS](https://d0.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf)
 
 ## Module 8: High Availability and DDos
 
 ### Websites
 
-### Courses
-
-### Videos
+- AWS WAF [User Guide](https://docs.aws.amazon.com/waf/latest/developerguide/what-is-aws-waf.html)
+- [How AWS Shield works](https://docs.aws.amazon.com/waf/latest/developerguide/ddos-overview.html)
+- [WAF Rule statement basics](https://docs.aws.amazon.com/waf/latest/developerguide/waf-rule-statements.html)
+- [Analyze AWS WAF logs](https://aws.amazon.com/blogs/security/analyze-aws-waf-logs-using-amazon-opensearch-service-anomaly-detection-built-on-random-cut-forests/)
+- [Security Automations](https://aws.amazon.com/solutions/implementations/aws-waf-security-automations/) for AWS WAF
+- Use GuardDuty and WAF to [automatically block suspicious hosts](https://aws.amazon.com/blogs/security/how-to-use-amazon-guardduty-and-aws-web-application-firewall-to-automatically-block-suspicious-hosts/)
+- AWS Shield [Features](https://aws.amazon.com/shield/features/)
+- [Control traffic to subnets using network ACLs](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html)
+- AWS Shield [Engagement Lambda](https://s3.amazonaws.com/aws-shield-lambda/ShieldEngagementLambda.pdf)
+- AWS WAF [pricing](https://aws.amazon.com/waf/pricing/)
+- AWS Config [pricing](https://aws.amazon.com/config/pricing/)
+- AWS Firewall Manager [prerequisites](https://docs.aws.amazon.com/waf/latest/developerguide/fms-prereq.html)
 
 ## Module 9: Securing Data
 
 ### Websites
 
-### Courses
-
-### Videos
+- AWS Key Management Service (KMS) [Developer Guide](https://docs.aws.amazon.com/kms/latest/developerguide/overview.html)
+- AWS Secrets Manager [User Guide](https://docs.aws.amazon.com/secretsmanager/latest/userguide/intro.html)
+- AWS CloudHSM [User Guide](https://docs.aws.amazon.com/cloudhsm/latest/userguide/introduction.html)
+- KMS [features](https://aws.amazon.com/kms/features/)
+- [KMS concepts](https://docs.aws.amazon.com/kms/latest/developerguide/concepts.html)
+- [Asymmetric keys](https://docs.aws.amazon.com/kms/latest/developerguide/symmetric-asymmetric.html)
+- [HSM users in CloudHSM](https://docs.aws.amazon.com/cloudhsm/latest/userguide/manage-hsm-users.html#crypto-officer)
+- [Using quorum authentication for crypto officers](https://docs.aws.amazon.com/cloudhsm/latest/userguide/quorum-authentication-crypto-officers.html)
+- [Oracle Transparent Data Encryption](https://aws.amazon.com/about-aws/whats-new/2015/01/08/amazon-rds-integrates-oracle-tde-with-cloudhsm/)
+- Oracle Transparent Data Encryption [configuration](https://docs.aws.amazon.com/cloudhsm/latest/userguide/oracle-tde.html)
+- [Database credentials and AWS Secrets Manager](https://aws.amazon.com/blogs/security/how-to-securely-provide-database-credentials-to-lambda-functions-by-using-aws-secrets-manager/)
+- [AWS Secrets Manager concepts](https://docs.aws.amazon.com/secretsmanager/latest/userguide/terms-concepts.html)
+- [Rotate](https://docs.aws.amazon.com/secretsmanager/latest/userguide/rotating-secrets.html) AWS Secrets Manager secrets
+- [Configuring S3 default encryption](https://docs.aws.amazon.com/AmazonS3/latest/userguide/default-bucket-encryption.html)
+- [Using server-side encryption with customer-provided keys (SSE-C)](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ServerSideEncryptionCustomerKeys.html)
 
 ## Module 10: Large Scale Data Stores
 
 ### Websites
 
-### Courses
-
-### Videos
+- S3 [pricing](https://aws.amazon.com/s3/pricing)
+- [Amazon S3 Inventory](https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-inventory.html)
+- Lake Formation [permissions](https://docs.aws.amazon.com/lake-formation/latest/dg/implicit-permissions.html)
+- [S3 access with VPC endpoints and S3 Access Points](https://aws.amazon.com/blogs/storage/managing-amazon-s3-access-with-vpc-endpoints-and-s3-access-points/)
+- [S3 Batch Operations](https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops.html)
+- [S3 Intelligent-Tiering](https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html#sc-dynamic-data-access)
+- [Blueprints and workflows](https://docs.aws.amazon.com/lake-formation/latest/dg/workflows-about.html) in Lake Formation
 
 ## Module 11: Migrating Workloads
 
