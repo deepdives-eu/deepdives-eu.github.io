@@ -44,9 +44,30 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 
 ### Websites
 
-### Courses
-
-### Videos
+- IAM [User Guide](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
+- AWS Organizations [User Guide](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_introduction.html)
+- IAM Identity Center [User Guide](https://docs.aws.amazon.com/singlesignon/latest/userguide/what-is.html)
+- AWS CLI [User Guide](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
+- AWS Control Tower [User Guide](https://docs.aws.amazon.com/controltower/latest/userguide/what-is-control-tower.html)
+- [Providing access to an IAM user in another AWS account](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_common-scenarios_aws-accounts.html)
+- [Cross-account access](https://aws.amazon.com/blogs/security/enable-a-new-feature-in-the-aws-management-console-cross-account-access/)
+- [Switching to an IAM role](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use_switch-role-api.html)
+- [Test access by switching roles](https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_cross-account-with-roles.html#tutorial_cross-account-with-roles-3)
+- AWS Organizations [terminology and concepts](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_getting-started_concepts.html)
+- [Managing organizational units](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_ous.html)
+- Service control policy [examples](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps_examples.html)
+- SCP [syntax](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps_syntax.html)
+- [manage users within](https://aws.amazon.com/blogs/security/how-to-create-and-manage-users-within-aws-sso/) AWS IAM Identity Center
+- AWS CLI [new features](https://aws.amazon.com/blogs/developer/aws-cli-v2-is-now-generally-available/)
+- AWS CLI [update instructions](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+- [AWS Services by Region](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
+- [About controls in AWS Control Tower](https://docs.aws.amazon.com/controltower/latest/userguide/controls.html)
+- [manage accounts](https://docs.aws.amazon.com/controltower/latest/userguide/account-factory.html) with Account Factory
+- [How AWS Control Tower Works](https://docs.aws.amazon.com/controltower/latest/userguide/how-control-tower-works.html)
+- Field Notes: [Enroll Existing AWS Accounts](https://aws.amazon.com/blogs/architecture/field-notes-enroll-existing-aws-accounts-into-aws-control-tower/) into AWS Control Tower 
+- [Enroll an existing AWS account](https://docs.aws.amazon.com/controltower/latest/userguide/enroll-account.html)
+- [Best practices](https://docs.aws.amazon.com/controltower/latest/userguide/best-practices.html) for AWS Control Tower administrators
+- [Best Practices](https://aws.amazon.com/blogs/mt/best-practices-for-organizational-units-with-aws-organizations/?org_product_gs_bp_OUBlog) for Organizational Units with AWS Organizations
 
 ## Module 3: Hybrid Connectivity
 
