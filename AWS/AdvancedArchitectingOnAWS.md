@@ -98,25 +98,57 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 
 ### Websites
 
-### Courses
-
-### Videos
+- AWS Storage Gateway [User Guides](https://docs.aws.amazon.com/storagegateway/latest/userguide/WhatIsStorageGateway.html)
+- AWS Wavelength [Developer Guide](https://docs.aws.amazon.com/wavelength/latest/developerguide/what-is-wavelength.html)
+- [AWS Outposts Family](https://docs.aws.amazon.com/outposts/latest/userguide/what-is-outposts.html#services)
+- [Site requirements](https://docs.aws.amazon.com/outposts/latest/userguide/outposts-requirements.html) for Outposts rack
+- AWS Outposts Servers [Features](https://aws.amazon.com/outposts/servers/features/)
+- AWS Local Zones [locations](https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/)
+- AWS Local Zones [overview](https://aws.amazon.com/about-aws/global-infrastructure/localzones/)
+- AWS Storage Gateway [FAQs](https://aws.amazon.com/storagegateway/faqs/)
+- AWS Outposts Rack [FAQs](https://aws.amazon.com/outposts/faqs/)
+- AWS Local Zones [FAQs](https://aws.amazon.com/about-aws/global-infrastructure/localzones/faqs/)
 
 ## Module 5: Connecting Networks
 
 ### Websites
 
-### Courses
+- Transit gateway [use cases](https://docs.aws.amazon.com/vpc/latest/tgw/TGW_Scenarios.html)
+- Transit gateway [associations](https://docs.aws.amazon.com/directconnect/latest/UserGuide/direct-connect-transit-gateways.html)
+- [How Reachability Analyzer works](https://docs.aws.amazon.com/vpc/latest/reachability/how-reachability-analyzer-works.html)
+- [AWS PrivateLink](https://docs.aws.amazon.com/vpc/latest/userguide/endpoint-service.html)
+- [AWS Marketplace](https://aws.amazon.com/marketplace)
+- [AWS Compliance Programs](https://aws.amazon.com/compliance/programs/)
+- AWS PrivateLink [Guide](https://docs.aws.amazon.com/vpc/latest/privatelink/what-is-privatelink.html)
 
 ### Videos
+
+- AWS on Air 2020: [VPC Reachability Analyzer](https://www.youtube.com/watch?v=KuwPQL2zYNQ)
 
 ## Module 6: Containers
 
 ### Websites
 
-### Courses
-
-### Videos
+- [Containers on AWS](https://aws.amazon.com/containers/services/)
+- [Docker Engine overview](https://docs.docker.com/engine/)
+- [Understanding Docker Container Architecture](https://collabnix.com/understanding-docker-container-image/)
+- [Docker overview](https://docs.docker.com/get-started/overview/)
+- Amazon ECR Public [User Guide](https://docs.aws.amazon.com/AmazonECR/latest/public/what-is-ecr.html)
+- [ECR Public and ECR Public Gallery](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-ecr-public-and-amazon-ecr-public-gallery/)
+- [Docker image tag](https://docs.docker.com/engine/reference/commandline/tag/)
+- [Amazon EKS Anywhere](https://aws.amazon.com/blogs/aws/amazon-eks-anywhere-now-generally-available-to-create-and-manage-kubernetes-clusters-on-premises/)
+- [ECS task definition](http://docs.aws.amazon.com/AmazonECS/latest/developerguide/create-task-definition.html)
+- [Example ECS task definitions](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/example_task_definitions.html)
+- ECS [Developer Guide](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html)
+- [ECS task placement strategies](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task-placement-strategies.html)
+- [Amazon ECS task placement constraints](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task-placement-constraints.html)
+- [Cluster management](https://docs.aws.amazon.com/AmazonECS/latest/userguide/clusters-concepts.html)
+- [Amazon EKS ended support for Dockershim](https://docs.aws.amazon.com/eks/latest/userguide/dockershim-deprecation.html)
+- [Creating a task definition using the console](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/create-task-definition.html)
+- [Task definition parameters](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_definition_parameters.html)
+- [ECS clusters and capacity](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/clusters.html)
+- Migrating Your Amazon ECS Containers to [AWS Fargate](https://aws.amazon.com/blogs/compute/migrating-your-amazon-ecs-containers-to-aws-fargate)
+- [Using data volumes in tasks](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/using_data_volumes.html)
 
 ## Module 7: Continuous Integration/Continuous Delivery (CI/CD)
 
