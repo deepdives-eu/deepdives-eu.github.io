@@ -90,6 +90,8 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 
 ### Websites
 
+- [IAM overview](https://aws.amazon.com/iam)
+- [IAM User Guide](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
 - [IAM Identities](https://docs.aws.amazon.com/IAM/latest/UserGuide/id.html)
 - Creating your first [IAM admin user and user group](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-admin-group.html)
 - Identity-based policies and resource-based [policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_identity-vs-resource.html)
@@ -130,6 +132,11 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 
 ### Websites
 
+- S3 [overview](https://aws.amazon.com/s3/)
+- S3 [User Guide](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
+- EBS [User Guide](https://docs.aws.amazon.com/ebs/latest/userguide/what-is-ebs.html)
+- EFS [User Guide](https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html)
+- FSx [documentation](https://docs.aws.amazon.com/fsx/)
 - [S3 Express One Zone](https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-express-one-zone.html)
 - Amazon S3 Transfer Acceleration [speed demo](http://s3-accelerate-speedtest.s3-accelerate.amazonaws.com/en/accelerate-speed-comparsion.html)
 - Bucket [restrictions and limitations](https://docs.aws.amazon.com/AmazonS3/latest/dev/BucketRestrictions.html)
@@ -145,6 +152,7 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 
 - AWS CLI [multipart upload](https://aws.amazon.com/premiumsupport/knowledge-center/s3-multipart-upload-cli/)
 - Using Amazon S3 [storage classes](https://docs.aws.amazon.com/AmazonS3/latest/dev/ChgStoClsOfObj.html)
+- [S3 Select](https://docs.aws.amazon.com/AmazonS3/latest/userguide/selecting-content-from-objects.html)
 - static website hosting on [Amazon S3](https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-serve-static-website/)
 - CloudFront and [HTTPS](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/using-https-viewers-to-cloudfront.html)
 - Using cross-origin resource sharing [CORS](https://docs.aws.amazon.com/AmazonS3/latest/dev/cors.html)
@@ -154,6 +162,8 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 
 ### Websites
 
+- DynamoDB [overview](https://aws.amazon.com/dynamodb/)
+- DynamoDB [Developer Guide](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)
 - [Partitions and Data Distribution](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.Partitions.html)
 - Working with Tables and Data in [DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/WorkingWithTables.html)
 - DynamoDB [data model](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.Partitions.html)
@@ -190,6 +200,8 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 
 ### Websites
 
+- Lambda [overview](https://aws.amazon.com/lambda/)
+- Lambda [Operator Guide](https://docs.aws.amazon.com/lambda/latest/operatorguide/intro.html)
 - Schedule AWS Lambda functions using [EventBridge](https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-run-lambda-schedule.html)
 - Lambda [SnapStart](https://docs.aws.amazon.com/lambda/latest/dg/snapstart.html)
 - [AddPermission](http://docs.aws.amazon.com/lambda/latest/dg/API_AddPermission.html)
@@ -205,6 +217,8 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 
 ### Websites
 
+- API Gateway [overview](https://aws.amazon.com/api-gateway/)
+- API Gateway [Developer Guide](https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html)
 - Setting up a stage for a [REST API](https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-stages.html)
 - Creating and using usage plans with [API keys](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-api-usage-plans.html)
 - [Throttle](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-request-throttling.html) API requests for better throughput
@@ -228,6 +242,8 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 
 ### Websites
 
+- AWS Step Functions [overview](https://aws.amazon.com/step-functions/)
+- AWS Step Functions [Developer Guide](https://docs.aws.amazon.com/step-functions/latest/dg/welcome.html)
 - [Microservices](https://en.wikipedia.org/wiki/Microservices)
 - [Serverless on AWS](https://aws.amazon.com/serverless/)
 - Iterating a Loop Using [Lambda](https://docs.aws.amazon.com/step-functions/latest/dg/tutorial-create-iterate-pattern-section.html)
@@ -240,6 +256,8 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 
 ### Websites
 
+- Amazon Cognito [overview](https://aws.amazon.com/cognito/)
+- Amazon Cognito [Developer Guide](https://docs.aws.amazon.com/cognito/latest/developerguide/what-is-amazon-cognito.html)
 - [Integrating](https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-integrate-apps.html) Amazon Cognito With Web and Mobile Apps
 - Understanding Amazon Cognito Authentication [Part 1](https://aws.amazon.com/blogs/mobile/understanding-amazon-cognito-authentication/)
 - Understanding Amazon Cognito Authentication [Part 2](https://aws.amazon.com/blogs/mobile/understanding-amazon-cognito-authentication-part-2-developer-authenticated-identities/)
@@ -251,6 +269,7 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 
 ### Websites
 - What is [DevOps?](https://aws.amazon.com/devops/what-is-devops/)
+- [DevOps tools](https://aws.amazon.com/devops/)
 - AWS SAM [template anatomy](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-specification-template-anatomy.html)
 - Controlling access to an API with API Gateway [resource policies](https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-resource-policies.html)
 - Controlling access to API Gateway [APIs](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-controlling-access-to-apis.html)
@@ -263,9 +282,10 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 
 ### Websites
 
+- CloudWatch [User Guide](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)
+- AWS X-Ray [Developer Guide](https://docs.aws.amazon.com/xray/latest/devguide/aws-xray.html)
 - [CloudWatch alarms](https://docs.aws.amazon.com/AmazonCloudWatch/latest/DeveloperGuide/AlarmThatSendsEmail.html)
 - Metrics [collected](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/metrics-collected-by-CloudWatch-agent.html) by the CloudWatch agent
-- What is [AWS X-Ray?](https://docs.aws.amazon.com/xray/latest/devguide/aws-xray.html)
 
 ## Module 15: Course Wrap-Up
 
