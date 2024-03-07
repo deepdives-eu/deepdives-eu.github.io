@@ -73,9 +73,26 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 
 ### Websites
 
-### Courses
-
-### Videos
+- AWS Global Accelerator [Developer Guide](https://docs.aws.amazon.com/global-accelerator/latest/dg/what-is-global-accelerator.html)
+- AWS Direct Connect [User Guide](https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html)
+- [VPCs and subnets](https://docs.aws.amazon.com/vpc/latest/userguide/how-it-works.html#how-it-works-subnet)
+- What is [AWS Client VPN](https://docs.aws.amazon.com/vpn/latest/clientvpn-admin/what-is.html#what-is-limitations)?
+- [Scenarios and examples](https://docs.aws.amazon.com/vpn/latest/clientvpn-admin/scenario.html) for AWS Client VPN
+- [Authenticate](https://aws.amazon.com/blogs/security/authenticate-aws-client-vpn-users-with-aws-single-sign-on/) AWS Client VPN users with AWS IAM Identity Center
+- [Modify Client VPN Endpoint](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_ModifyClientVpnEndpoint.html)
+- [customer gateway device](https://docs.aws.amazon.com/vpn/latest/s2svpn/your-cgw.html)
+- [Tunnel options](https://docs.aws.amazon.com/vpn/latest/s2svpn/VPNTunnels.html) for your Site-to-Site VPN connection
+- [Customer gateway options](https://docs.aws.amazon.com/vpn/latest/s2svpn/cgw-options.html) for your Site-to-Site VPN connection
+- [Scaling VPN throughput](https://aws.amazon.com/blogs/networking-and-content-delivery/scaling-vpn-throughput-using-aws-transit-gateway/) using AWS Transit Gateway
+- [Improve VPN Network Performance](https://aws.amazon.com/blogs/architecture/improve-vpn-network-performance-of-aws-hybrid-cloud-with-global-accelerator/)
+- [Encryption](https://docs.aws.amazon.com/directconnect/latest/UserGuide/encryption-in-transit.html) in AWS Direct Connect
+- AWS Direct Connect [features](https://aws.amazon.com/directconnect/features/)
+- AWS Direct Connect [Delivery Partners](https://aws.amazon.com/directconnect/partners/)
+- [Bidirectional Forwarding Detection (BFD)](https://aws.amazon.com/premiumsupport/knowledge-center/enable-bfd-direct-connect/) for Direct Connect
+- [Network MTU](https://docs.aws.amazon.com/directconnect/latest/UserGuide/set-jumbo-frames-vif.html) for private virtual interfaces
+- [EFS and Direct Connect](https://aws.amazon.com/blogs/aws/amazon-efs-update-on-premises-access-via-direct-connect-vpc/)
+- [Private IP VPN](https://docs.aws.amazon.com/vpn/latest/s2svpn/private-ip-dx.html) with AWS Direct Connect
+- Site-to-Site VPN [routing options](https://docs.aws.amazon.com/vpn/latest/s2svpn/VPNRoutingTypes.html)
 
 ## Module 4: Specialized Infrastructure
 
