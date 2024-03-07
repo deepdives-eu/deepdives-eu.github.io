@@ -9,8 +9,11 @@ The repo is licensed under the CC-BY-SA 4.0 license, so can be used by anyone as
 In case you notice any stale links or mistakes in the material, please consider making a pull request. We will be updating the site on a best effort basis.
 
 ## Amazon Web Services
+
+- [Advanced Architecting on AWS](AWS/AdvancedArchitectingOnAWS.md)
 - [Developing on AWS](AWS/DevelopingOnAWS.md)
 
 ## Google Cloud
+
 - [Google Cloud Fundamentals: Core Infrastructure](google/FundamentalsCoreInfrastructure.md)
 
