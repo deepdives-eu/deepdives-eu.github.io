@@ -226,30 +226,83 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 
 ### Websites
 
-### Courses
+- AWS DataSync [User Guide](https://docs.aws.amazon.com/datasync/latest/userguide/what-is-datasync.html)
+- AWS Database Migration (DMS) [Service Documentation](https://docs.aws.amazon.com/dms/)
+- AWS Schema Conversion (SCT) [User Guide](https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/CHAP_Welcome.html)
+- [AWS Cloud Readiness Assessment](https://cloudreadiness.amazonaws.com/#/cart)
+- [AWS Migration Acceleration Program](https://aws.amazon.com/migration-acceleration-program/)
+- [Migration Evaluator](https://aws.amazon.com/migration-evaluator/)
+- [Agentless snapshot based replication](https://docs.aws.amazon.com/mgn/latest/ug/agentless-mgn.html) for vCenter source environments
+- [How AWS DataSync works](https://docs.aws.amazon.com/datasync/latest/userguide/how-datasync-works.html)
+- [Working with AWS DMS endpoints](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Endpoints.html)
+- [Using Oracle GoldenGate with RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Appendix.OracleGoldenGate.html)
+- [Getting started with AWS SCT](https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/CHAP_GettingStarted.html)
+- [SCT general information and use cases](https://aws.amazon.com/dms/schema-conversion-tool/)
 
 ### Videos
+
+- [Key migration practices for success](https://www.youtube.com/watch?v=7-31KgImGgU)
 
 ## Module 12: Optimizing Cost
 
 ### Websites
 
-### Courses
+- AWS Billing and Cost Management [Documentation](https://docs.aws.amazon.com/account-billing/)
+- AWS Resource Groups [User Guide](https://docs.aws.amazon.com/ARG/latest/userguide/resource-groups.html)
+- [Creating an Amazon SNS topic for budget notifications](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/budgets-sns-policy.html)
+- [Tag policies](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_tag-policies.html)
+- [Tag enforcement](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_tag-policies-enforcement.html)
+- [Using the AWS CLI to manage DynamoDB auto scaling](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/AutoScaling.CLI.html)
+- [Cost Optimization with AWS](https://aws.amazon.com/aws-cost-management/aws-cost-optimization/)
 
 ### Videos
+
+- AWS re:Invent 2016: [Cost Optimizing Your Architecture](https://youtu.be/qYHR_V1lvNU)
 
 ## Module 13: Architecting for the Edge
 
 ### Websites
 
-### Courses
-
-### Videos
+- Amazon CloudFront [Developer Guide](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
+- AWS Global Accelerator [Developer Guide](https://docs.aws.amazon.com/global-accelerator/latest/dg/what-is-global-accelerator.html)
+- Amazon CloudFront [Key Features](https://aws.amazon.com/cloudfront/features/)
+- [Using various origins with CloudFront distributions](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/DownloadDistS3AndCustomOrigins.html)
+- Amazon CloudFront introduces [Origin Access Control (OAC)](https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-cloudfront-introduces-origin-access-control-oac/)
+- [Migrating](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html#migrate-from-oai-to-oac) from origin access identity (OAI) to origin access control (OAC)
+- [OriginGroup](https://docs.aws.amazon.com/cloudfront/latest/APIReference/API_OriginGroup.html)
+- [Video on demand and live streaming video with CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/on-demand-streaming-video.html)
+- [Website endpoints](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteEndpoints.html)
+- [Restricting access to files on custom origins](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-overview.html#forward-custom-headers-restrict-access)
+- [Overview of serving private content](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-overview.html)
+- [Restricting access to an Amazon S3 origin](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html)
+- [Amazon CloudFront Custom SSL](https://aws.amazon.com/cloudfront/custom-ssl-domains/)
+- [How CloudFront delivers content](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/HowCloudFrontWorks.html)
+- [Understanding the cache key](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/understanding-the-cache-key.html)
+- Customizing at the edge with [functions](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/edge-functions.html)
+- Customizing at the edge with [CloudFront Functions](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/cloudfront-functions.html)
+- Customizing at the edge with [Lambda@Edge](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/lambda-at-the-edge.html)
+- [AWS Global Accelerator for Availability and Performance](https://aws.amazon.com/blogs/aws/new-aws-global-accelerator-for-availability-and-performance/)
+- [Starting Small with AWS Global Accelerator](https://aws.amazon.com/blogs/networking-and-content-delivery/starting-small-with-aws-global-accelerator/)
+- [Health checks for your target groups](https://docs.aws.amazon.com/elasticloadbalancing/latest/network/target-group-health-checks.html)
+- CloudFront [CacheBehavior](https://docs.aws.amazon.com/cloudfront/latest/APIReference/API_CacheBehavior.html)
 
 ## Module 14: Review
 
 ### Websites
 
+- [AWS Certification exam preparation](https://aws.amazon.com/certification/certification-prep/)
+- [AWS Certification](https://aws.amazon.com/certification/)
+- [AWS Recertification](https://aws.amazon.com/certification/recertification/)
+- [All AWS Certification exams](https://aws.amazon.com/certification/exams/)
+- [Schedule an Exam](https://aws.amazon.com/certification/certification-prep/testing/)
+- AWS Skill Builder [subscriptioon](https://aws.amazon.com/training/digital)
+- [AWS Training and Certification](https://aws.amazon.com/training)
+- [AWS Online Tech Talks](https://aws.amazon.com/events/online-tech-talks/on-demand/)
+- [AWS Ramp-Up Guides](https://aws.amazon.com/training/ramp-up-guides/)
+
 ### Courses
 
-### Videos
+- Advanced Architecting on AWS [Online Course Supplement](https://explore.skillbuilder.aws/learn/course/external/view/elearning/1283/advanced-architecting-on-aws-online-course-supplement)
+- [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
+- [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/)
+- [AWS Workshops](https://workshops.aws/)
