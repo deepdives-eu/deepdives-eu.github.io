@@ -1,4 +1,4 @@
-# Getting Started with GoogleKubernetes Engine
+# Getting Started with Google Kubernetes Engine
 
 ## Module 00: Course Introduction
 Full name: Getting Started with Google Kubernetes Engine

@@ -16,4 +16,5 @@ In case you notice any stale links or mistakes in the material, please consider 
 ## Google Cloud
 
 - [Google Cloud Fundamentals: Core Infrastructure](google/FundamentalsCoreInfrastructure.md)
+- [Getting Started with Google Kubernetes Engine](google/GettingStartedGKE.md)
 
