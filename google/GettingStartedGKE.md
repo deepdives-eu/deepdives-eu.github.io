@@ -14,7 +14,7 @@ Online course options:
 - GoogleCloud: Getting Started with Google Kubernetes Engine - [edX](https://www.edx.org/learn/kubernetes/google-cloud-getting-started-with-google-kubernetes-engine) free
 - Getting Started with Google Kubernetes Engine - [Pluralsight](https://www.pluralsight.com/courses/getting-started-google-kubernetes-engine-13) paid
 
-Lab recording playlist <>
+Lab recording playlist <https://www.youtube.com/playlist?list=PLbOwD4pDuqPZEUstby5J-HFgh2MXupUQP>
 
 ## Module 01: Introduction to Google Cloud
 
