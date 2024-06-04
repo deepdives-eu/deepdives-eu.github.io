@@ -6,7 +6,7 @@ Full name: Developing on AWS
 
 Product code: 200-DODEVA-45
 
-These links are based on the course version 4.5.3.
+These links are based on the course version 4.5.8.
 
 Online and classroom course options: [Developing on AWS](https://www.aws.training/SessionSearch?pageNumber=1&courseId=10017&languageId=1)
 
