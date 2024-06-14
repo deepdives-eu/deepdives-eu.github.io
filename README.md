@@ -11,6 +11,7 @@ In case you notice any stale links or mistakes in the material, please consider 
 ## Amazon Web Services
 
 - [Advanced Architecting on AWS](AWS/AdvancedArchitectingOnAWS.md)
+- [Advanced Developing on AWS](AWS/AdvancedDevelopingOnAWS.md)
 - [Developing on AWS](AWS/DevelopingOnAWS.md)
 
 ## Google Cloud
