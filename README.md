@@ -13,6 +13,7 @@ In case you notice any stale links or mistakes in the material, please consider 
 - [Advanced Architecting on AWS](AWS/AdvancedArchitectingOnAWS.md)
 - [Advanced Developing on AWS](AWS/AdvancedDevelopingOnAWS.md)
 - [Developing on AWS](AWS/DevelopingOnAWS.md)
+- [The Machine Learning Pipeline on AWS](AWS/TheMachineLearningPipelineOnAWS.md)
 
 ## Google Cloud
 
