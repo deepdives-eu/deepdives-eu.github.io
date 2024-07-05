@@ -26,6 +26,7 @@ Additional material:
 - [AWS Online Tech Talks](https://aws.amazon.com/events/online-tech-talks/on-demand/)
 - [AWS Ramp-Up Guides](https://aws.amazon.com/training/ramp-up-guides/)
 
+Please also consider looking at the [Developing on AWS course material links](DevelopingOnAWS.html) as we try not to have too much overlap between the two link lists.
 
 ## Module 1: The cloud journey
 
@@ -64,11 +65,6 @@ Additional material:
 - [AWS CodePipeline](https://aws.amazon.com/codepipeline/)
 - [AWS CodeBuild](https://aws.amazon.com/codebuild/)
 - [AWS CodeDeploy](https://aws.amazon.com/codedeploy/)
-- [AWS CodeStar](https://aws.amazon.com/codestar/)
-- [AWS CodeStar Project Templates](https://docs.aws.amazon.com/codestar/latest/userguide/templates.html)
-- [Getting Started with AWS CodeStar](https://docs.aws.amazon.com/codestar/latest/userguide/getting-started.html#getting-started-create)
-- [AWS CodeStar Project Templates](https://docs.aws.amazon.com/codestar/latest/userguide/templates.html)
-- [Getting Started with AWS CodeStar](https://docs.aws.amazon.com/codestar/latest/userguide/getting-started.html#getting-started-create)
 - [The Twelve-Factor App: Codebase](https://12factor.net/codebase)
 - [AWS CodeBuild features](https://aws.amazon.com/codebuild/features/)
 - [AWS CodeBuild concepts](https://docs.aws.amazon.com/codebuild/latest/userguide/concepts.html)
@@ -78,6 +74,14 @@ Additional material:
 - [How CodeBuild works](https://docs.aws.amazon.com/codebuild/latest/userguide/concepts.html#concepts-how-it-works)
 - [AWS CodeBuild Jenkins Plugin](https://github.com/awslabs/aws-codebuild-jenkins-plugin)
 - [Migrate polling pipelines to use event-based change detection](https://docs.aws.amazon.com/codepipeline/latest/userguide/update-change-detection.html)
+- [Amazon CodeCatalyst](https://codecatalyst.aws/explore)
+
+### Videos
+- [AWS re:Invent 2022 - A closer look at AWS Lambda (SVS404-R)](https://www.youtube.com/watch?v=0_jfH6qijVY)
+- [AWS Secrets Manager - AWS Parameters and Secrets Lambda Extension](https://www.youtube.com/watch?v=TJxQQZ7UKjk)
+- [Amazon CodeCatalyst](https://www.youtube.com/playlist?list=PLSEiMZ6cyJva8Y9ZyUdGg6v5NNSfKTeSf)
+- [Start your software project fast with Amazon CodeCatalyst blueprints](https://www.youtube.com/watch?v=rp7roaoPzFE)
+- [I'm in DevOps - CI/CD at Scale: Best practices with AWS DevOps Services (Level 300)](https://www.youtube.com/watch?v=BK9lu1KrUBg)
 
 ## Module 3: Monolith to microservices
 
@@ -91,6 +95,17 @@ Additional material:
 - [AWS SAM CLI](https://github.com/awslabs/aws-sam-cli)
 - [Deploying serverless applications gradually](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/automating-updates-to-serverless-apps.html)
 - [Creating an AWS Fargate service using the AWS CDK](https://docs.aws.amazon.com/cdk/latest/guide/ecs_example.html)
+
+### Videos
+- [Monolith Decomposition Patterns • Sam Newman • GOTO 2019](https://www.youtube.com/watch?v=9I9GdSQ1bbM)
+- [Considering Migrating a Monolith to Microservices? • Chris Richardson • YOW! 2022](https://www.youtube.com/watch?v=r1a-kB9Y6bM)
+- [Don’t Build a Distributed Monolith - Jonathan "J." Tower - NDC London 2023](https://www.youtube.com/watch?v=p2GlRToY5HI)
+- [Modular Monoliths • Simon Brown • GOTO 2018](https://www.youtube.com/watch?v=5OjqD-ow8GE)
+- [Distribu-ready with the Modular Monolith - Layla Porter - NDC London 2024](https://www.youtube.com/watch?v=P7gJ9Lo0VrE)
+
+### Books
+- Building Microservices, 2nd Edition [O'Reilly](https://learning.oreilly.com/library/view/building-microservices-2nd/9781492034018/) [Amazon UK](https://www.amazon.co.uk/Building-Microservices-Second-Sam-Newman/dp/1492034029/)
+- Monolith To Microservices [Video overview](https://youtu.be/5uf6xX0BvKU?si=bFy4M-s-7qqdEBke) [O'Reilly](http://shop.oreilly.com/product/0636920233169.do) [Amazon UK](https://www.amazon.co.uk/Monolith-Microservices-Evolutionary-Patterns-Transform/dp/1492047848/)
 
 ## Module 4: Polyglot persistence and distributed complexity
 
@@ -107,6 +122,7 @@ Additional material:
 
 ### Videos
 
+- [AWS Summit ANZ 2021 - Design patterns for success in serverless microservices](https://www.youtube.com/watch?v=ReRB_xEtEjY)
 - [AWS re:Invent 2019: Amazon DynamoDB deep dive: Advanced design patterns (DAT403-R1)](https://www.youtube.com/watch?v=6yqfmXiZTlM)
 
 
@@ -123,6 +139,9 @@ Additional material:
 - [Distributed data management](https://docs.aws.amazon.com/whitepapers/latest/microservices-on-aws/distributed-data-management.html)
 - [Using AWS Serverless Technology as an Enabler for Cloud Adoption](https://aws.amazon.com/blogs/apn/using-aws-serverless-technology-as-an-enabler-for-cloud-adoption/)
 
+### Videos
+- [AWS Summit ANZ 2022 - Build resilient microservices using fault-tolerant patterns (DEV5)](https://www.youtube.com/watch?v=NB3ei9pnHFA)
+
 
 ## Module 6: Security and observability
 
@@ -133,3 +152,5 @@ Additional material:
 - [Use API Gateway Lambda authorizers](https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-use-lambda-authorizer.html)
 - [Set up API keys using the API Gateway console](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-setup-api-key-with-console.html)
 
+### Videos
+- [AWS Summit ANZ 2022 - Application identity! Securing your app using Amazon Cognito (SEC2)](https://www.youtube.com/watch?v=8xmJv1f9WLk)
