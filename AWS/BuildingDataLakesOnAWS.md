@@ -102,8 +102,6 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 - [Getting Started with AWS Glue ETL](https://www.youtube.com/watch?v=z3HeHlWg88M)
 - [Build ETL Processes for Data Lakes with AWS Glue - AWS Online Tech Talks](https://www.youtube.com/watch?v=P3z4IX5-OHM)
 
-### Courses
-
 ## Module 5: AWS Lake Formation Additional Configurations
 
 ### Websites
@@ -129,8 +127,6 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 - [Working with embedded analytics](https://docs.aws.amazon.com/quicksight/latest/user/embedded-analytics.html)
 - [Embed interactive dashboards in your application with Amazon QuickSight](https://aws.amazon.com/blogs/big-data/embed-interactive-dashboards-in-your-application-with-amazon-quicksight/)
 
-### Videos
-
 ### Courses
 
 - [Authoring Visual Analytics using Amazon QuickSight](https://www.aws.training/SessionSearch?courseId=107671&languageId=1)
@@ -155,8 +151,6 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 - [How GoDaddy built a data mesh to decentralize data ownership using AWS Lake Formation](https://aws.amazon.com/blogs/big-data/how-godaddy-built-a-data-mesh-to-decentralize-data-ownership-using-aws-lake-formation)
 - [AWS Analytics Reference Architecture](https://github.com/aws-samples/aws-analytics-reference-architecture)
 - [Build a Data Mesh on AWS](https://catalog.us-east-1.prod.workshops.aws/workshops/23e6326b-58ee-4ab0-9bc7-3c8d730eb851/en-US)
-
-### Videos
 
 ### Courses
 
