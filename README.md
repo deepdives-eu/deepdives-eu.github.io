@@ -1,4 +1,4 @@
-# deepdives.eu course additional information repository
+# [deepdives.eu](https://deepdives.eu) course additional information repository
 
 This github site is in place primarily for students taking part in courses delivered by instructors of deepdives.eu.
 
