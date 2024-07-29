@@ -12,6 +12,7 @@ In case you notice any stale links or mistakes in the material, please consider 
 
 - [Advanced Architecting on AWS](AWS/AdvancedArchitectingOnAWS.md)
 - [Advanced Developing on AWS](AWS/AdvancedDevelopingOnAWS.md)
+- [Authoring Visual Analytics Using Amazon QuickSight](AWS/AuthoringVisualAnalyticsUsingQuickSight.md)
 - [Building Data Lakes on AWS](AWS/BuildingDataLakesOnAWS.md)
 - [Developing on AWS](AWS/DevelopingOnAWS.md)
 - [MLOps Engineering on AWS](AWS/MLOpsEngineeringOnAWS.md)
