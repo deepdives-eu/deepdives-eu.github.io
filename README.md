@@ -16,6 +16,7 @@ In case you notice any stale links or mistakes in the material, please consider 
 - [Building Data Lakes on AWS](AWS/BuildingDataLakesOnAWS.md)
 - [Developing Generative AI Applications on AWS](AWS/DevelopingGenerativeAIApplicationsOnAWS.md)
 - [Developing on AWS](AWS/DevelopingOnAWS.md)
+- [DevOps Engineering on AWS](AWS/DevOpsEngineeringOnAWS.md)
 - [MLOps Engineering on AWS](AWS/MLOpsEngineeringOnAWS.md)
 - [Security Engineering on AWS](AWS/SecurityEngineeringOnAWS.md)
 - [The Machine Learning Pipeline on AWS](AWS/TheMachineLearningPipelineOnAWS.md)
