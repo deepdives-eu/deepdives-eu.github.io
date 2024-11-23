@@ -33,14 +33,14 @@ Additional material: [AWS Skill Builder](https://skillbuilder.aws/search?searchT
 
 ### Websites
 
-- [Data science needs drudges | InfoWorld](https://www.infoworld.com/article/3627276/data-science-needs-drudges.html)
+- [Data science needs drudges](https://www.infoworld.com/article/3627276/data-science-needs-drudges.html)
 
 ## Module 3:
 
 ### Websites
 
 - [Use Amazon SageMaker Built-in Algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
-- [How XGBoost Algorithm Works - Amazon SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/xgboost-HowItWorks.html)
+- [How XGBoost Algorithm Works](https://docs.aws.amazon.com/sagemaker/latest/dg/xgboost-HowItWorks.html)
 - [Decision Tree](https://mlu-explain.github.io/decision-tree/)
 - [Getting Started with Amazon CodeWhisperer](https://docs.aws.amazon.com/codewhisperer/latest/userguide/getting-started.html)
 - [Amazon Q Developer](https://aws.amazon.com/q/developer/)
@@ -48,8 +48,8 @@ Additional material: [AWS Skill Builder](https://skillbuilder.aws/search?searchT
 
 ### Videos
 
-- [Amazon CodeWhisperer | AI Code Companion | AWS](https://youtu.be/qu67bvH2Y08)
-- [Amazon CodeWhisperer – Get Coding Suggestions with this AI Pair Programmer | AWS](https://youtu.be/GkZ4bT4DMwU)
+- [Amazon CodeWhisperer - AI Code Companion](https://youtu.be/qu67bvH2Y08)
+- [Amazon CodeWhisperer - Get Coding Suggestions](https://youtu.be/GkZ4bT4DMwU)
 
 ### AWS Services
 
@@ -86,7 +86,7 @@ Additional material: [AWS Skill Builder](https://skillbuilder.aws/search?searchT
 
 ### Websites
 
-- [Amazon SageMaker Canvas introduces Quick Build to support time-series forecasting models | AWS](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-canvas-quick-build-support-time-series-forecast-models)
+- [Amazon SageMaker Canvas introduces Quick Build to support time-series forecasting models](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-canvas-quick-build-support-time-series-forecast-models)
 - [Amazon SageMaker Canvas](https://aws.amazon.com/sagemaker/canvas/)
 - [Amazon SageMaker domain overview](https://docs.aws.amazon.com/sagemaker/latest/dg/gs-studio-onboard.html)
 - [Migrate to Amazon SageMaker Studio](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-lab-use-migrate.html)
