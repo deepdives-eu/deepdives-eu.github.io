@@ -18,7 +18,7 @@ Practical Data Science with Amazon SageMaker [Online Course](https://explore.ski
 
 Additional material: [AWS Skill Builder](https://skillbuilder.aws/search?searchText=Practical+Data+Science+with+Amazon+SageMaker&page=1&sort=item_relevancy)
 
-## Module 1:
+## Module 1: Introduction to Machine Learning
 
 ### Websites
 
@@ -29,13 +29,13 @@ Additional material: [AWS Skill Builder](https://skillbuilder.aws/search?searchT
 - [Bias-Variance Tradeoff](https://mlu-explain.github.io/bias-variance/)
 - [Amazon Machine Learning](https://docs.aws.amazon.com/machine-learning/)
 
-## Module 2:
+## Module 2: Preparing a Dataset
 
 ### Websites
 
 - [Data science needs drudges](https://www.infoworld.com/article/3627276/data-science-needs-drudges.html)
 
-## Module 3:
+## Module 3: Training a Model
 
 ### Websites
 
@@ -56,7 +56,7 @@ Additional material: [AWS Skill Builder](https://skillbuilder.aws/search?searchT
 - Amazon SageMaker [Documentation](https://docs.aws.amazon.com/sagemaker/)
 - Amazon CodeWhisperer [Documentation](https://docs.aws.amazon.com/codewhisperer/)
 
-## Module 4:
+## Module 4: Evaluating and Tuning a Model
 
 ### Websites
 
@@ -64,13 +64,13 @@ Additional material: [AWS Skill Builder](https://skillbuilder.aws/search?searchT
 - [ROC and AUC](https://mlu-explain.github.io/roc-auc)
 - [Automatic model tuning with SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/automatic-model-tuning.html)
 
-## Module 5:
+## Module 5: Deploying a Model
 
 ### Websites
 
 - [Deploy a Model on Amazon SageMaker Hosting Services](https://docs.aws.amazon.com/sagemaker/latest/dg/deploy-model.html)
 
-## Module 6:
+## Module 6: Operational Challenges
 
 ### Websites
 
@@ -82,7 +82,7 @@ Additional material: [AWS Skill Builder](https://skillbuilder.aws/search?searchT
 
 - Amazon SageMaker Clarify [Overview](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-online-explainability.html)
 
-## Module 7:
+## Module 7: Other Model-Building Tools
 
 ### Websites
 
@@ -96,7 +96,7 @@ Additional material: [AWS Skill Builder](https://skillbuilder.aws/search?searchT
 - Amazon SageMaker Canvas [Documentation](https://docs.aws.amazon.com/sagemaker/latest/dg/canvas.html)
 - Amazon SageMaker Studio [Documentation](https://docs.aws.amazon.com/sagemaker/latest/dg/studio.html)
 
-## Module 8: Course Summary
+## Module 8: Course Wrap-up
 
 ### Websites
 
