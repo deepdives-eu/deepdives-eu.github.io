@@ -20,6 +20,11 @@ The official course material: [eVantage Bookshelf (VitalSource)](https://evant
 
 Additional material: [Skill Builder](https://skillbuilder.aws/search?searchText=DevOps+Engineering+on+AWS&page=1&sort=item_relevancy)
 
+AWS Service Documents:
+- [Overviews](https://aws.amazon.com/documentation-overview/)
+- [Technical](https://docs.aws.amazon.com/)
+
+
 ## Module 1: Thinking Serverless
 
 ### Websites
