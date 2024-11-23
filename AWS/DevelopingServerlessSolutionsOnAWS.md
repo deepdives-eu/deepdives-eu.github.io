@@ -20,14 +20,14 @@ The official course material: [eVantage Bookshelf (VitalSource)](https://evant
 
 Additional material: [Skill Builder](https://skillbuilder.aws/search?searchText=DevOps+Engineering+on+AWS&page=1&sort=item_relevancy)
 
-## Module 1:
+## Module 1: Thinking Serverless
 
 ### Websites
 
 - [Serverless on AWS](https://aws.amazon.com/serverless/)
 - [Perspectives on the CAP Theorem](https://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf)
 
-## Module 2:
+## Module 2: API-Driven Development and Synchronous Event Sources
 
 ### Websites
 
@@ -45,7 +45,7 @@ Additional material: [Skill Builder](https://skillbuilder.aws/search?searchText=
 - [Designing a GraphQL API - AWS AppSync](https://docs.aws.amazon.com/appsync/latest/devguide/designing-a-graphql-api.html)
 - [AWS AppSync](https://aws.amazon.com/appsync/)
 
-## Module 3:
+## Module 3: Introduction to Authentication, Authorization, and Access Control
 
 ### Websites
 
@@ -56,7 +56,7 @@ Additional material: [Skill Builder](https://skillbuilder.aws/search?searchText=
 - [Enable Amazon Cognito User Pool Auth in Amazon API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-enable-cognito-user-pool.html)
 - [Amazon Cognito Authentication Flow](https://docs.aws.amazon.com/cognito/latest/developerguide/authentication-flow.html)
 
-## Module 4:
+## Module 4: Serverless Deployment Frameworks
 
 ### Websites
 
@@ -65,7 +65,7 @@ Additional material: [Skill Builder](https://skillbuilder.aws/search?searchText=
 - [Get Started - AWS Amplify Docs](https://docs.amplify.aws/start)
 - [AWS Amplify Hosting – Build, deploy, and host static web apps](https://aws.amazon.com/amplify/hosting/)
 
-## Module 5:
+## Module 5: Using Amazon EventBridge and Amazon SNS to Decouple Components
 
 ### Websites
 
@@ -87,14 +87,14 @@ Additional material: [Skill Builder](https://skillbuilder.aws/search?searchText=
 - [An Introduction to Amazon EventBridge - AWS Online Tech Talks](https://youtu.be/NakNmzsN6LI)
 
 
-## Module 6:    
+## Module 6: Event-Driven Development Using Queues and Streams
 
 ### Websites
 
 - [What is Amazon SQS? - Amazon Simple Queue Service](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html)
 - [Using AWS Lambda with Amazon SQS](https://docs.aws.amazon.com/lambda/latest/dg/with-sqs.html)
 
-## Module 7:
+## Module 7: Writing Effective Lambda Functions
 
 ### Websites
 
@@ -139,7 +139,7 @@ Additional material: [Skill Builder](https://skillbuilder.aws/search?searchText=
 - [Reporting Batch Item Failures to SQS](https://docs.aws.amazon.com/lambda/latest/dg/with-sqs.html#services-sqs-batchfailurereporting)
 - [Optimizing batch processing with custom checkpoints in AWS Lambda](https://aws.amazon.com/blogs/compute/optimizing-batch-processing-with-custom-checkpoints-in-aws-lambda/)
 
-## Module 8:
+## Module 8: Step Functions for Orchestration
 
 ### Websites
 
@@ -164,7 +164,7 @@ Additional material: [Skill Builder](https://skillbuilder.aws/search?searchText=
 - [New – Synchronous Express Workflows for AWS Step Functions](https://aws.amazon.com/blogs/compute/new-synchronous-express-workflows-for-aws-step-functions/)
 - [Service Integrations - AWS Step Functions](https://docs.aws.amazon.com/step-functions/latest/dg/concepts-service-integrations.html)
 
-## Module 9:
+## Module 9: Observability and Monitoring
 
 ### Websites
 
@@ -196,7 +196,7 @@ Additional material: [Skill Builder](https://skillbuilder.aws/search?searchText=
 - [Embedded Metric Format Libraries](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch_Embedded_Metric_Format_Libraries.html)
 - [CloudWatch Embedded Metric Format Specification](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch_Embedded_Metric_Format_Specification.html)
 
-## Module 10:
+## Module 10: Serverless Application Security
 
 ### Websites
 
@@ -227,7 +227,7 @@ Additional material: [Skill Builder](https://skillbuilder.aws/search?searchText=
 - [Example Bucket Policies for Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/dev/example-policies-s3.html)
 - [Example Policies for Amazon S3 Buckets](https://docs.aws.amazon.com/AmazonS3/latest/dev/example-bucket-policies.html)
 
-## Module 11:
+## Module 11: Handling Scale in Serverless Applications
 
 ### Websites
 
@@ -244,20 +244,34 @@ Additional material: [Skill Builder](https://skillbuilder.aws/search?searchText=
 - [Key Concepts: Amazon Kinesis Data Streams](https://docs.aws.amazon.com/streams/latest/dev/key-concepts.html)
 - [EventSourceMappingConfiguration - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/API_EventSourceMappingConfiguration.html)
 
-## Module 12:
+## Module 12: Automating the Deployment Pipeline & Course Wrap-Up
 
 ### Websites
 
-- [Automating Updates to Serverless Applications](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/automating-updates-to-serverless-apps.html)
-- [AWS Certification Preparation](https://aws.amazon.com/certification/certification-prep/)
+- Serverless Architectures with [AWS Lambda](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf)
+- How AWS [Pricing](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/welcome.html) Works
+- Back to [Basics](https://aws.amazon.com/architecture/back-to-basics/?tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc&awsf.categories=*all&awsm.page-tma=2)
+- [AWS Support](https://aws.amazon.com/premiumsupport/)
+- AWS Certification [exam preparation](https://aws.amazon.com/certification/certification-prep/)
 - [AWS Certification](https://aws.amazon.com/certification/)
-- [AWS Certification Recertification](https://aws.amazon.com/certification/recertification/)
-- [AWS Skill Builder - Prepare for an Exam](https://skillbuilder.aws/#prepare-for-exam)
-- [AWS Certification Testing](https://aws.amazon.com/certification/certification-prep/testing/)
-- [AWS Digital Training](https://aws.amazon.com/training/digital)
-- [AWS Skill Builder](https://explore.skillbuilder.aws/)
-- [AWS Training](https://aws.amazon.com/training)
-- [AWS Certification](https://aws.amazon.com/certification)
-- [AWS Workshops](https://workshops.aws/)
-- [AWS On-Demand Webinars](https://aws.amazon.com/events/online-tech-talks/on-demand/)
+- AWS Certification [exams](https://aws.amazon.com/certification/exams/)
+- [AWS Recertification](https://aws.amazon.com/certification/recertification/)
+- Schedule an [Exam](https://aws.amazon.com/certification/certification-prep/testing/)
 - [AWS Ramp-Up Guides](https://aws.amazon.com/training/ramp-up-guides/)
+
+### Courses
+
+- [Advanced Developing on AWS](https://www.aws.training/SessionSearch?pageNumber=1&courseId=36896&languageId=1)
+- [Developing Serverless Solutions on AWS](https://www.aws.training/SessionSearch?pageNumber=1&courseId=53785&languageId=1)
+- [Build Modern Applications with AWS NoSQL Databases](https://aws.amazon.com/training/classroom/build-modern-applications-with-aws-nosql-databases/)
+- [Getting Started with DevOps on AWS](https://www.aws.training/Details/eLearning?id=66768) 
+- [AWS Cloud Development Kit Primer](https://www.aws.training/Details/Curriculum?id=64511)
+- [AWS Skill Builder](https://aws.amazon.com/training/digital)
+- AWS Skill Builder [courses](https://explore.skillbuilder.aws/learn)
+- [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/)
+- [AWS Workshops](https://workshops.aws/)
+- [Classroom training](https://aws.amazon.com/training) 
+
+### Videos
+
+- [Tech Talks](https://aws.amazon.com/events/online-tech-talks/on-demand/)
