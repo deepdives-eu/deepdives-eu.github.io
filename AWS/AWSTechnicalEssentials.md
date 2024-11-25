@@ -21,7 +21,7 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 ### Websites
 
 - [AWS Cloud Services](https://aws.amazon.com/products/)
-- [ARegions and Availability Zones](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/)
+- [Regions and Availability Zones](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/)
 
 ## Module 2: AWS Compute
 
@@ -31,7 +31,11 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 
 ### AWS Services
 
-- **AWS Lambda** [Overview](https://aws.amazon.com/documentation-overview/lambda/) - [Documentation](https://docs.aws.amazon.com/lambda/)
+- AWS Lambda [Overview](https://aws.amazon.com/documentation-overview/lambda/) - [Documentation](https://docs.aws.amazon.com/lambda/)
+- Amazon EC2 - [Overview](https://aws.amazon.com/documentation-overview/ec2/)
+- Amazon ECS - [Overview](https://aws.amazon.com/documentation-overview/ecs/)
+- Amazon EKS - [Overview](https://aws.amazon.com/documentation-overview/eks/)
+
 
 ## Module 3: AWS Networking
 
@@ -47,8 +51,8 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 
 ### AWS Services
 
-- **Amazon VPC** [Overview](https://aws.amazon.com/documentation-overview/vpc/) - [Documentation](https://docs.aws.amazon.com/vpc/)
-- **AWS Direct Connect** [Overview](https://aws.amazon.com/documentation-overview/direct-connect/) - [Documentation](https://docs.aws.amazon.com/directconnect/)
+- Amazon VPC [Overview](https://aws.amazon.com/documentation-overview/vpc/) - [Documentation](https://docs.aws.amazon.com/vpc/)
+- AWS Direct Connect [Overview](https://aws.amazon.com/documentation-overview/direct-connect/) - [Documentation](https://docs.aws.amazon.com/directconnect/)
 
 ## Module 4: AWS Storage
 
@@ -58,7 +62,7 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 
 ### AWS Services
 
-- **Amazon FSx** [FSx for Lustre](https://aws.amazon.com/documentation-overview/lustre/) - [FSx for Windows](https://aws.amazon.com/documentation-overview/fsx-windows/) - [Documentation](https://docs.aws.amazon.com/fsx/)
+- Amazon FSx [FSx for Lustre](https://aws.amazon.com/documentation-overview/lustre/) - [FSx for Windows](https://aws.amazon.com/documentation-overview/fsx-windows/) - [Documentation](https://docs.aws.amazon.com/fsx/)
 
 ## Module 5: Databases
 
@@ -74,8 +78,8 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 
 ### AWS Services
 
-- **Amazon RDS** [Overview](https://aws.amazon.com/documentation-overview/relational-database-service/) - [Documentation](https://docs.aws.amazon.com/rds/)
-- **Amazon DynamoDB** [Overview](https://aws.amazon.com/documentation-overview/dynamodb/) - [Documentation](https://docs.aws.amazon.com/dynamodb/)
+- Amazon RDS [Overview](https://aws.amazon.com/documentation-overview/relational-database-service/) - [Documentation](https://docs.aws.amazon.com/rds/)
+- Amazon DynamoDB [Overview](https://aws.amazon.com/documentation-overview/dynamodb/) - [Documentation](https://docs.aws.amazon.com/dynamodb/)
 
 ## Module 6: Monitoring, Load Balancing, and Scaling
 
