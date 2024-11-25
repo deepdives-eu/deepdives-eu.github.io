@@ -6,7 +6,7 @@ This document contains links mentioned in the "Advanced Architecting on AWS" cou
 
 ## Module 0: Course Introduction
 
-Full name: Developing on AWS
+Full name: Advanced Architecting on AWS
 
 Product code: 300-ADVARC-37
 
