@@ -14,6 +14,7 @@ In case you notice any stale links or mistakes in the material, please consider 
 - [Advanced Developing on AWS](AWS/AdvancedDevelopingOnAWS.md)
 - [Amazon SageMaker Studio for Data Scientists](AWS/AmazonSageMakerStudioForDataScientists.md)
 - [Authoring Visual Analytics Using Amazon QuickSight](AWS/AuthoringVisualAnalyticsUsingQuickSight.md)
+- [AWS Technical Essentials](AWS/AWSTechnicalEssentials.md)
 - [Build Modern Applications with AWS NoSQL Databases](AWS/BuildModernApplicationsWithAWSNoSQLDatabases.md)
 - [Building Data Lakes on AWS](AWS/BuildingDataLakesOnAWS.md)
 - [Developing Generative AI Applications on AWS](AWS/DevelopingGenerativeAIApplicationsOnAWS.md)
