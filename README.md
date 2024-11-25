@@ -13,6 +13,7 @@ In case you notice any stale links or mistakes in the material, please consider 
 - [Advanced Architecting on AWS](AWS/AdvancedArchitectingOnAWS.md)
 - [Advanced Developing on AWS](AWS/AdvancedDevelopingOnAWS.md)
 - [Amazon SageMaker Studio for Data Scientists](AWS/AmazonSageMakerStudioForDataScientists.md)
+- [Architecting on AWS](AWS/ArchitectingOnAWS.md)
 - [Authoring Visual Analytics Using Amazon QuickSight](AWS/AuthoringVisualAnalyticsUsingQuickSight.md)
 - [AWS Technical Essentials](AWS/AWSTechnicalEssentials.md)
 - [Build Modern Applications with AWS NoSQL Databases](AWS/BuildModernApplicationsWithAWSNoSQLDatabases.md)
