@@ -24,6 +24,7 @@ In case you notice any stale links or mistakes in the material, please consider 
 - [DevOps Engineering on AWS](AWS/DevOpsEngineeringOnAWS.md)
 - [MLOps Engineering on AWS](AWS/MLOpsEngineeringOnAWS.md)
 - [Practical Data Science with Amazon SageMaker](AWS/PracticalDataScienceWithAmazonSageMaker.md)
+- [Running Containers on Amazon Elastic Kubernetes Service](AWS/RunningContainersOnAmazonElasticKubernetesService.md)
 - [Security Engineering on AWS](AWS/SecurityEngineeringOnAWS.md)
 - [The Machine Learning Pipeline on AWS](AWS/TheMachineLearningPipelineOnAWS.md)
 
