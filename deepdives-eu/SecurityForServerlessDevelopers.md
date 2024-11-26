@@ -1,6 +1,6 @@
-# DevOps Fundamentals book links
+# Security for Serverless Developers book links
 
-This document contains links and book references mentioned in the book "DevOps Fundamentals". 
+This document contains links and book references mentioned in the book "Security for Serverless Developers". 
 
 ## Chapter 1: DevOps Basics
 

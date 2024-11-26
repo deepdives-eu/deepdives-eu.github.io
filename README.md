@@ -33,6 +33,6 @@ In case you notice any stale links or mistakes in the material, please consider 
 - [Google Cloud Fundamentals: Core Infrastructure](google/FundamentalsCoreInfrastructure.md)
 - [Getting Started with Google Kubernetes Engine](google/GettingStartedGKE.md)
 
-## Deep Dives
+## deepdives.eu
 
-- [DevOps Fundamentals](deepdives-eu/DevOpsFundamentals.md)
+- [Security for Serverless Developers](deepdives-eu/SecurityForServerlessDevelopers.md)
