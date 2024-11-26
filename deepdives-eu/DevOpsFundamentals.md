@@ -2,7 +2,7 @@
 
 This document contains links and book references mentioned in the book "DevOps Fundamentals". 
 
-## Chapter 1: 
+## Chapter 1: DevOps Basics
 
 ### Books
 - Agarwal G: Modern DevOps Practices - Second Edition: Implement, secure, and manage applications on the public cloud by leveraging cutting-edge tools (2nd Edition), Packt, 2024, ISBN 978-1805121824
@@ -23,7 +23,7 @@ This document contains links and book references mentioned in the book "DevOps F
 - Why software developers prefer DORA metrics <https://www.infoworld.com/article/2338808/why-software-developers-prefer-dora-metrics.html>
 - The Wrong Way to Use DORA Metrics <https://thenewstack.io/the-wrong-way-to-use-dora-metrics/>
 
-## Chapter 2: 
+## Chapter 2: Serverless Architecture and Security
 
 ### Videos
 - Cloud Security Risks: Explorint the Latest Threat Landscape Report (IBM Technology) <https://www.youtube.com/watch?v=VK0GyUSDwQY>
@@ -32,7 +32,7 @@ This document contains links and book references mentioned in the book "DevOps F
 - Serverless Security Made Simple (Google Cloud Next '19) <https://www.youtube.com/watch?v=-q4u8YO2YaA>
 - Using DevOps, Microservices & Serverless to Accelerate Innovation (AWS re:Invent 2018) <https://www.youtube.com/watch?v=eXl6Bumksnk>
 
-## Chapter 3: 
+## Chapter 3: Introduction to Security
 
 ### Papers
 - Shaharyar Khan, Ilya Kabanov, Yunke Hua, and Stuart Madnick. 2022. A Systematic Analysis of the Capital One Data Breach: Critical Lessons Learned. ACM Trans. Priv. Secur. 26, 1, Article 3 (February 2023), 29 pages. <https://doi.org/10.1145/3546068> (publicly available)
@@ -45,7 +45,7 @@ This document contains links and book references mentioned in the book "DevOps F
 - 2017 Equifax data breach, Wikipedia <https://en.wikipedia.org/wiki/2017_Equifax_data_breach>
 - The Equifax Hack Has the Hallmarks of State-Sponsored Pros, Bloomberg Business Week, 2017, <https://www.bloomberg.com/news/features/2017-09-29/the-equifax-hack-has-all-the-hallmarks-of-state-sponsored-pros>
 
-## Chapter 4: 
+## Chapter 4: Secure Software Development Practices
 
 ### Papers
 - Chowdhury PD, Hallett J, Patnaik N, Tahaei, M, Rashid A: Developers Are Neither Enemies Nor Users: They Are Collaborators, 2021 IEEE Secure Development Conference (SecDev), IEEE 2021 <https://doi.org/10.1109/SecDev51306.2021.00023>
@@ -54,8 +54,7 @@ This document contains links and book references mentioned in the book "DevOps F
 
 
 ### Videos
-- Leveraging Psychological Needs For Building A Security Culture Amongst Developers - Juliane Reimann
-<https://youtu.be/3m1ASrjfkbk?si=pItJhziSMpGeXltI>
+- Leveraging Psychological Needs For Building A Security Culture Amongst Developers - Juliane Reimann <https://youtu.be/3m1ASrjfkbk?si=pItJhziSMpGeXltI>
 - Maturing SDLC At A Fortune 500 Company Based On OWASP SAMM: Successes And Pitfalls <https://www.youtube.com/watch?v=hf1U3MP_wBU>
 - Navigating The Landscape Of Client-Side Request Hijacking On The Web <https://www.youtube.com/watch?v=7L4koVoZ7Uw>
 - OWASP Developer Guide (2024) <https://www.youtube.com/watch?v=EV8bwXQNnfI>
@@ -64,14 +63,15 @@ This document contains links and book references mentioned in the book "DevOps F
 ### Websites
 - How to use value stream mapping to improve software delivery <https://dora.dev/guides/value-stream-management/>
 
-## Chapter 5: 
+## Chapter 5: API Gateway Security in Microservices Architecture
 
 ### Videos
 - I didn't know Amazon API Gateway did that (SVS323) - AWS re:Invent 2023 <https://www.youtube.com/watch?v=SlWJCTrMLOA>
 
 ### Websites
 - OWASP API Security Top 10 <https://owasp.org/API-Security/>
-## Chapter 6: 
+
+## Chapter 6: DevSecOps - Integrating Security into the Development Lifecycle
 
 ### Videos
 - Application Threat Modeling Implementation Tips and Tricks - Mohamed Alfateh <https://www.youtube.com/watch?v=Fzz-VsqRtWk>
