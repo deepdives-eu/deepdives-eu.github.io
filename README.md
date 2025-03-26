@@ -18,6 +18,7 @@ In case you notice any stale links or mistakes in the material, please consider 
 - [AWS Technical Essentials](AWS/AWSTechnicalEssentials.md)
 - [Build Modern Applications with AWS NoSQL Databases](AWS/BuildModernApplicationsWithAWSNoSQLDatabases.md)
 - [Building Data Lakes on AWS](AWS/BuildingDataLakesOnAWS.md)
+- [Cloud Operations on AWS](AWS/CloudOperationsOnAWS.md)
 - [Developing Generative AI Applications on AWS](AWS/DevelopingGenerativeAIApplicationsOnAWS.md)
 - [Developing on AWS](AWS/DevelopingOnAWS.md)
 - [Developing Serverless Solutions on AWS](AWS/DevelopingServerlessSolutionsOnAWS.md)
