@@ -10,13 +10,26 @@ Full name: Security Engineering on AWS
 
 Product code: 200-SISECO-33
 
-These links are based on the course version 3.3.11.
+These links are based on the course version 3.3.20.
 
 Online and classroom course options: [Security Engineering on AWS](https://www.aws.training/SessionSearch?pageNumber=1&courseId=10021&languageId=1)
 
 The official course material: [eVantage Bookshelf (VitalSource)](https://evantage.gilmoreglobal.com)
 
-Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
+[Security Engineering on AWS- Online Course Supplement (free)](https://skillbuilder.aws/learn/VZ6B56ES7Z/security-engineering-on-aws-online-course-supplement/BDQDPEDTYK)
+
+[Security Engineering on AWS - Supplemental Lab Playlist (skillbuilder subscription required)](https://skillbuilder.aws/learning-plan/9YGADSGXR8/security-engineering-on-aws--supplemental-lab-playlist/96V8NFVKBV)
+
+[Security: Identity Management and Access Control (Advanced) Jam Journey (skillbuilder subscription required)](https://skillbuilder.aws/learn/YQ8BMYMF3Q/security-identity-management-and-access-control-advanced/4BRW8DMWAB)
+
+[Security: Network and Infrastructure Security Jam Journey (skillbuilder subscription required)](https://skillbuilder.aws/learn/QD9UCM2MZ1/security-network-and-infrastructure-security/T1EGWT4JXR)
+
+[Security: Data Protection and Data Encryption Jam Journey (skillbuilder subscription required)](https://skillbuilder.aws/learn/H5WTU8931J/security-data-protection-and-data-encryption/RBC1M4G89B)
+
+[AWS Security Champion - Knowledge Badge Readiness Path](https://skillbuilder.aws/learning-plan/31WSD993AF/aws-security-champion--knowledge-badge-readiness-path/QGY41BBUDQ)
+
+[Exam Prep Plan: AWS Certified Security - Specialty (SCS-C02 - English)](https://skillbuilder.aws/learning-plan/VBNFDF312W/exam-prep-plan-aws-certified-security--specialty-scsc02--english/DABJABXPFY)
+
 
 ## Module 1: Security Overview
 
@@ -27,6 +40,12 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 - [AWS Well-Architected Framework Design Principles](https://docs.aws.amazon.com/wellarchitected/latest/framework/sec-design.html)
 - [How to approach threat modeling
 ](https://aws.amazon.com/blogs/security/how-to-approach-threat-modeling)
+
+### Videos
+
+- [Well-Architected for Security: Advanced Session (AWS Public Sector Summit Australia 2017)](https://www.youtube.com/watch?v=ujRf2BzgGGg)
+- [Security Best Practices the Well-Architected Way (SDD318) (re:Inforce 2019)](https://www.youtube.com/watch?v=u6BCVkXkPnM)
+- [A Practitioner's Guide to Securing Your Cloud (Like an Expert) (SEC203-R1) (re:Invent 2018)](https://www.youtube.com/watch?v=5UDSxV9pbnU)
 
 ## Module 2: Access and Authorizations on AWS
 
@@ -54,6 +73,13 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 - [Validating CloudTrail log file integrity](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-log-file-validation-intro.html)
 - [How AWS uses automated reasoning to help you achieve security at scale](https://aws.amazon.com/blogs/security/protect-sensitive-data-in-the-cloud-with-automated-reasoning-zelkova)
 
+### Videos
+
+- [Become an IAM Policy Master in 60 Minutes or Less (SEC316-R1) (re:Invent 2018)](https://www.youtube.com/watch?v=YQsK4MtsELU)
+- [AWS Knowledge Center Live: IAM Best Practices and Design Decisions](https://www.youtube.com/watch?v=xzDFPIQy4Ks)
+- [Augmenting Security & Improving Operational Health w/ AWS CloudTrail (SEC323) (re:Invent 2018)](https://www.youtube.com/watch?v=YWzmoDzzg4U)
+- [Security & Compliance for Modern Serverless Applications (re:Invent 2018)](https://www.youtube.com/watch?v=qtGlE-v3-0U)
+
 ## Module 3: Account Management and Provisioning on AWS
 
 ### Websites
@@ -70,6 +96,13 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 - [Introducing AWS IAM Identity Center](https://aws.amazon.com/blogs/security/introducing-aws-single-sign-on)
 - [Common Amazon Cognito scenarios](https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-scenarios.html)
 - [Working with adaptive authentication](https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-user-pool-settings-adaptive-authentication.html)
+
+### Videos
+- [Deep Dive: Security and Governance Across a Multi-Account Strategy (SAC320) (re:Invent 2016)](https://www.youtube.com/watch?v=xjtSWd8z_bE)
+- [Architecting Security and Governance Across a Multi-Account Stra (SID331) (re:Invent 2017)](https://www.youtube.com/watch?v=71fD8Oenwxc)
+- [Centrally Monitoring Resource Configuration & Compliance (ENT332-R1) (re:Invent 2018)](https://www.youtube.com/watch?v=kErRv4YB_T4)
+- [Managing Multi-Account AWS Environments Using AWS Organizations (FND314) (re:Inforce 2019)](https://www.youtube.com/watch?v=fxo67UeeN1A)
+- [Using AWS Control Tower to Govern Multi-Account AWS Environments (GRC313-R) (re:Inforce 2019)](https://www.youtube.com/watch?v=2t-VkWt0rKk)
 
 ## Module 4: Managing Keys and Secrets on AWS
 
@@ -92,6 +125,11 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 - [Managing Parameter Store parameter tiers
 ](https://docs.aws.amazon.com/systems-manager/latest/userguide/parameter-store-advanced-parameters.html)
 
+### Videos
+- [Encryption and Key Management in AWS (SEC304) (re:Invent 2013)](https://www.youtube.com/watch?v=-v7rsCWUC1I)
+- [Get the Most from AWS KMS: Architecting Applications for High Security (SEC303) (re:Invent 2016)](https://www.youtube.com/watch?v=EgJ9EQn0EJ8)
+
+
 ## Module 5: Data Security
 
 ### Websites
@@ -105,6 +143,10 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 - [Encryption at Rest](https://docs.aws.amazon.com/fsx/latest/WindowsGuide/encryption-at-rest.html)
 - [S3 Glacier Vault Lock](https://docs.aws.amazon.com/amazonglacier/latest/dev/vault-lock.html)
 
+### Videos
+- [How Encryption Works in AWS (FND310-R) (re:Inforce 2019)](https://www.youtube.com/watch?v=plv7PQZICCM)
+- [Data Protection: Encryption, Availability, Resiliency, & Durability (SEC325-R1) (re:Invent 2018)](https://www.youtube.com/watch?v=FH6AXreSQWQ)
+
 ## Module 6: Infrastructure and Edge Protection
 
 ### Websites
@@ -112,6 +154,15 @@ Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 - [Amazon VPC now supports an AWS-managed prefix list for Amazon CloudFront](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudfront-managed-prefix-list/)
 - [AWS Best Practices for DDoS Resiliency](https://d1.awsstatic.com/whitepapers/DDoS_White_Paper_June2015.pdf)
 - [Combinations Calculator (nCr)](https://www.calculatorsoup.com/calculators/discretemathematics/combinations.php)
+
+### Videos
+- [A Day in the Life of a Billion Packets (CPN401) (re:Invent 2013)](https://www.youtube.com/watch?v=Zd5hsL-JNY4)
+- [Another Day, Another Billion Packets (NET403) (re:Invent 2015)](https://www.youtube.com/watch?v=3qln2u1Vr2E)
+- [Another Day, Another Billion Flows (NET405) (re:Invent 2017)](https://www.youtube.com/watch?v=8gc2DgBqo9U)
+- [Another Day, Another Billion Packets (AWS Summit London 2017)](https://www.youtube.com/watch?v=cg-89FrAGjw)
+- [Another Day in the Life of a Cloud Network Engineer at Netflix (NET312) (re:Invent 2018)](https://www.youtube.com/watch?v=95nfMj4PVDA)
+- [AWS Shield—A Managed DDoS Protection Service (SAC322) (re:Invent 2016)](https://www.youtube.com/watch?v=R06GDQBbtRU)
+- [DDoS Attack Detection at Scale (SDD408) (re:Inforce 2019)](https://www.youtube.com/watch?v=2lAcE3NA2UU)
 
 ## Module 7: Monitoring and Collecting Logs on AWS
 
@@ -139,6 +190,15 @@ AWS](https://d1.awsstatic.com/Projects/P4113850/aws-projects_build-log-analytics
 - [Centralized Logging with OpenSearch](https://docs.aws.amazon.com/pdfs/solutions/latest/centralized-logging-with-opensearch/centralized-logging-with-opensearch.pdf)
 - [Centralized Logging with OpenSearch (implementation guide)](https://aws.amazon.com/solutions/implementations/centralized-logging-with-opensearch)
 
+### Videos
+- [Easily Transform Compliance to Code Using AWS Config, Config Rules, and the Rules Development Kit](https://www.youtube.com/watch?v=fBewaclMo2s)
+- [Centrally Monitoring Resource Configuration & Compliance (ENT332-R1) (re:Invent 2018)](https://www.youtube.com/watch?v=kErRv4YB_T4)
+- [Monitoring and Remediating Non-Compliant Resources with AWS Config](https://www.youtube.com/watch?v=JXwEMipnY-o)
+- [Security Automation using AWS Management Tools (AWS Public Sector Summit Washington DC 2018)](https://www.youtube.com/watch?v=8Gpa9rKBpV4)
+- [Build a Dashboard Using Serverless Security Analytics (SDD201) (re:Inforce 2019)](https://www.youtube.com/watch?v=w2FH12ZUgdY)
+- [Build Your Own Log Analytics Solutions on AWS (ANT323-R1) (re:Invent 2018)](https://www.youtube.com/watch?v=fSjAfp-uqSs)
+- [Demo: Centralized Logging with OpenSearch - Logging solutions in 20 minutes](https://www.youtube.com/watch?v=TW_ZJABNeEA)
+
 ## Module 8: Responding to Threats
 
 ### Websites
@@ -153,6 +213,15 @@ AWS](https://d1.awsstatic.com/Projects/P4113850/aws-projects_build-log-analytics
 - [What is Amazon Detective?](https://docs.aws.amazon.com/detective/latest/adminguide/detective-source-data-about.html)
 - [AWS Security Blog](https://aws.amazon.com/blogs/security/)
 - [Automated Forensics Orchestrator for Amazon EC2](https://aws.amazon.com/solutions/implementations/automated-forensics-orchestrator-for-amazon-ec2)
+
+### Videos
+
+- [Incident Response in the Cloud (119678) (AWS Public Sector Summit 2016)](https://www.youtube.com/watch?v=ZyeTSI900zw)
+- [Automating Incident Response and Forensics in AWS (AWS Summit Canberra 2018)](https://www.youtube.com/watch?v=8qQ5Ng-FGB0)
+- [Incident Response in the Cloud (SEC404) (re:Invent 2014)](https://www.youtube.com/watch?v=nzSrRvADh6g)
+- [Incident Response in the Cloud (SID319) (re:Invent 2017)](https://www.youtube.com/watch?v=ufmgB9M2WII)
+- [Threat Detection and Remediation in the Cloud (AWS Summit 2016)](https://www.youtube.com/watch?v=MdwzAyXyO8U)
+- [Threat Detection on AWS: An Introduction to Amazon GuardDuty (FND216) (re:Inforce 2019)](https://www.youtube.com/watch?v=czsuZXQvD8E)
 
 ## Module 9: Course Wrap-Up
 
