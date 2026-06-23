@@ -33,15 +33,16 @@ Online course options:
 - Database options on Google Cloud <https://cloud.google.com/products/databases>
 
 ### Videos
-- What is Cloud Storage? <https://www.youtube.com/watch?v=VDBhfixAbAs>
+- Cloud Storage in a minute <https://www.youtube.com/watch?v=wNOs3LlsH6k>
 - What is Pub/Sub? <https://www.youtube.com/watch?v=cvu53CnZmGI>
 - What is Dataflow? <https://www.youtube.com/watch?v=KalJ0VuEM7s>
-- What is Dataproc? <https://www.youtube.com/watch?v=3W5RiOfMsV4>
-- What is Looker? <https://www.youtube.com/watch?v=bVDMo4XnfaE>
+- Dataproc in a minute <https://www.youtube.com/watch?v=Jj6mp7Sam10>
+- What is BigQuery? <https://www.youtube.com/watch?v=m8WqxLd1jSc>
+- Understanding Looker and Looker Studio <https://www.youtube.com/watch?v=bUh5cGOSoaM>
 - What is Vertex AI? <https://www.youtube.com/watch?v=gT4qqHMiEpA>
-- What is Cloud SQL? <https://www.youtube.com/watch?v=DK-BknkGRRo>
-- What is Cloud Spanner? <https://www.youtube.com/watch?v=bUSU1e9QQmA>
-- What is Bigtable? <https://www.youtube.com/watch?v=KDey3FUsgoI>
+- What is Cloud SQL? <https://www.youtube.com/watch?v=Kl8ig2BtLAY>
+- What is Cloud Spanner? <https://www.youtube.com/watch?v=bUSU1e9j8wc>
+- What is Cloud Bigtable? <https://www.youtube.com/watch?v=P4q4nqJAamo>
 
 ## Module 02: Exploring Data and Extracting Insights Using BigQuery
 
@@ -71,14 +72,10 @@ Online course options:
 - bq command-line tool <https://cloud.google.com/bigquery/docs/bq-command-line-tool>
 
 ### Videos
-- Getting started with BigQuery <https://www.youtube.com/watch?v=d3MDxC_iuaw>
-- BigQuery explained: storage overview <https://www.youtube.com/watch?v=a0jeP5kuzIE>
-- BigQuery explained: querying data <https://www.youtube.com/watch?v=GrDWGfCUB08>
-- Introduction to BigQuery ML <https://www.youtube.com/watch?v=KORMRnbzUr4>
-- What is BigLake? <https://www.youtube.com/watch?v=GSyc99P5PQQ>
-- BigQuery GIS tutorial <https://www.youtube.com/watch?v=u6TIi56uyeM>
-- BigQuery DataFrames <https://www.youtube.com/watch?v=SdclYLvHxYo>
-- Gemini in BigQuery <https://www.youtube.com/watch?v=W2BhRMKBgis>
+- BigQuery in a minute <https://www.youtube.com/watch?v=CFw4peH2UwU>
+- BigLake in a minute <https://www.youtube.com/watch?v=UdpNYk0EP0g>
+- BigQuery ML in a minute <https://www.youtube.com/watch?v=0RMT8uEplbM>
+- Use BigQuery & Gemini AI for Data Analytics <https://www.youtube.com/watch?v=qrT4g0hZHns>
 
 ## Module 03: Making Data-Driven Decisions Using Looker
 
@@ -95,11 +92,8 @@ Online course options:
 - LookML overview <https://cloud.google.com/looker/docs/what-is-lookml>
 
 ### Videos
-- What is Looker? <https://www.youtube.com/watch?v=bVDMo4XnfaE>
-- Getting started with Looker <https://www.youtube.com/watch?v=KJhVhs0gD_Y>
-- Introduction to Looker Studio <https://www.youtube.com/watch?v=6FMQonqjsGs>
-- Building dashboards with Looker Studio <https://www.youtube.com/watch?v=a5Wn5v8JnvE>
-- Looker: Explores and Dimensions <https://www.youtube.com/watch?v=Z8Y1HGoUkbw>
+- Understanding Looker and Looker Studio <https://www.youtube.com/watch?v=bUh5cGOSoaM>
+- Looker Studio in a minute <https://www.youtube.com/watch?v=ZBoFvaWr-Dk>
 
 ## Module 04: Course Summary
 

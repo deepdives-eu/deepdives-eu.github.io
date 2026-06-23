@@ -26,8 +26,8 @@ Online course options:
 - Data formats overview <https://cloud.google.com/bigquery/docs/loading-data#data_formats>
 
 ### Videos
-- Intro to Analytics Hub <https://www.youtube.com/watch?v=BhV7MKNZ3XQ>
-- Getting started with BigQuery <https://www.youtube.com/watch?v=d3MDxC_iuaw>
+- What is BigQuery? <https://www.youtube.com/watch?v=m8WqxLd1jSc>
+- Analytics Hub in a minute <https://www.youtube.com/watch?v=h8_xCbTYtTU>
 
 ## Module 02: Data Replication and Migration
 
@@ -40,10 +40,8 @@ Online course options:
 - Change data capture with Datastream <https://cloud.google.com/datastream/docs/concepts>
 
 ### Videos
-- What is Datastream? <https://www.youtube.com/watch?v=K4_ikDBMp7w>
-- Datastream for BigQuery <https://www.youtube.com/watch?v=tO7FyBVJXXg>
-- Migrating data to Google Cloud <https://www.youtube.com/watch?v=hXJiC6pFmPo>
-- Storage Transfer Service overview <https://www.youtube.com/watch?v=2RMgNa06J3Y>
+- Introduction to Datastream for BigQuery <https://www.youtube.com/watch?v=vMo6Zgkvt40>
+- What is Storage Transfer Service? <https://www.youtube.com/watch?v=1oIw2mT_4-M>
 
 ## Module 03: The Extract and Load Data Pipeline Pattern
 
@@ -58,10 +56,9 @@ Online course options:
 - Querying Google Sheets data <https://cloud.google.com/bigquery/docs/external-data-drive>
 
 ### Videos
-- What is BigLake? <https://www.youtube.com/watch?v=GSyc99P5PQQ>
-- BigQuery Data Transfer Service <https://www.youtube.com/watch?v=wQ0Yxotgb6Y>
-- BigQuery external tables <https://www.youtube.com/watch?v=DXPB2sDwQlA>
-- Data lakehouse on Google Cloud <https://www.youtube.com/watch?v=iiLGO8z2hbw>
+- BigLake in a minute <https://www.youtube.com/watch?v=UdpNYk0EP0g>
+- BigQuery Migration Service: SQL and data transfer <https://www.youtube.com/watch?v=vY_m9dM6WxE>
+- Open Analytics Lakehouse on Google Cloud <https://www.youtube.com/watch?v=_HmbwjODKgo>
 
 ## Module 04: The Extract, Load, and Transform Data Pipeline Pattern
 
@@ -77,10 +74,7 @@ Online course options:
 - Apache Spark procedures in BigQuery <https://cloud.google.com/bigquery/docs/spark-procedures>
 
 ### Videos
-- Introduction to Dataform <https://www.youtube.com/watch?v=FSTWKHTu-cM>
-- What is Dataform? <https://www.youtube.com/watch?v=byYk_Ib02-M>
-- BigQuery Scripting <https://www.youtube.com/watch?v=xzTEv_0rCdI>
-- BigQuery DataFrames <https://www.youtube.com/watch?v=SdclYLvHxYo>
+- Streamline Your SQL Workflows with Dataform <https://www.youtube.com/watch?v=8pVM6iXq4Jw>
 
 ## Module 05: The Extract, Transform, and Load Data Pipeline Pattern
 
@@ -99,11 +93,10 @@ Online course options:
 ### Videos
 - What is Dataflow? <https://www.youtube.com/watch?v=KalJ0VuEM7s>
 - What is Pub/Sub? <https://www.youtube.com/watch?v=cvu53CnZmGI>
-- What is Dataproc? <https://www.youtube.com/watch?v=3W5RiOfMsV4>
-- Dataproc Serverless for Spark <https://www.youtube.com/watch?v=r_gMSXhq-0w>
-- What is Bigtable? <https://www.youtube.com/watch?v=KDey3FUsgoI>
-- Stream from Pub/Sub to BigQuery with Dataflow <https://www.youtube.com/watch?v=WRMm2-Nj_74>
-- Cloud Data Fusion overview <https://www.youtube.com/watch?v=jjkFh8DQ2OQ>
+- Dataproc in a minute <https://www.youtube.com/watch?v=Jj6mp7Sam10>
+- Data Science Workloads on Dataproc Serverless <https://www.youtube.com/watch?v=dLcDBs9ilf0>
+- What is Cloud Bigtable? <https://www.youtube.com/watch?v=P4q4nqJAamo>
+- Data Fusion in a minute <https://www.youtube.com/watch?v=xjsNWh1TLKo>
 
 ## Module 06: Automation Techniques
 
@@ -116,11 +109,11 @@ Online course options:
 - Dataproc Workflow Templates <https://cloud.google.com/dataproc/docs/concepts/workflows/overview>
 
 ### Videos
-- What is Cloud Composer? <https://www.youtube.com/watch?v=tCIiYCqggv0>
-- What are Cloud Run functions? <https://www.youtube.com/watch?v=BL4DlM7VOKY>
-- Introduction to Eventarc <https://www.youtube.com/watch?v=kUSY6-nF8ns>
-- Cloud Scheduler explained <https://www.youtube.com/watch?v=Yf1m0JZ8jLU>
-- Getting started with Cloud Workflows <https://www.youtube.com/watch?v=j-d_v1x5LNQ>
+- Cloud Composer in a minute <https://www.youtube.com/watch?v=pSjD5nHkXLU>
+- Cloud Run in a minute <https://www.youtube.com/watch?v=AL2rAmWFZjM>
+- Event-driven orchestration with Eventarc and Workflows <https://www.youtube.com/watch?v=2SI12QE-2DU>
+- Getting started with Cloud Tasks and Cloud Scheduler <https://www.youtube.com/watch?v=P9MCC9KmM_8>
+- Cloud Workflows in a minute <https://www.youtube.com/watch?v=K_Gn0pZysLg>
 
 ## Module 07: Course Summary
 
