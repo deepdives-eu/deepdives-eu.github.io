@@ -37,7 +37,6 @@ Online course options:
 - What is Pub/Sub? <https://www.youtube.com/watch?v=cvu53CnZmGI>
 - What is Dataflow? <https://www.youtube.com/watch?v=KalJ0VuEM7s>
 - What is Dataproc? <https://www.youtube.com/watch?v=3W5RiOfMsV4>
-- What is BigQuery? <https://www.youtube.com/watch?v=7vSg48Kdx34>
 - What is Looker? <https://www.youtube.com/watch?v=bVDMo4XnfaE>
 - What is Vertex AI? <https://www.youtube.com/watch?v=gT4qqHMiEpA>
 - What is Cloud SQL? <https://www.youtube.com/watch?v=DK-BknkGRRo>
@@ -72,7 +71,6 @@ Online course options:
 - bq command-line tool <https://cloud.google.com/bigquery/docs/bq-command-line-tool>
 
 ### Videos
-- What is BigQuery? <https://www.youtube.com/watch?v=7vSg48Kdx34>
 - Getting started with BigQuery <https://www.youtube.com/watch?v=d3MDxC_iuaw>
 - BigQuery explained: storage overview <https://www.youtube.com/watch?v=a0jeP5kuzIE>
 - BigQuery explained: querying data <https://www.youtube.com/watch?v=GrDWGfCUB08>

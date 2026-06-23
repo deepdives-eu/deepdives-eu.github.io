@@ -26,7 +26,6 @@ Online course options:
 - Data formats overview <https://cloud.google.com/bigquery/docs/loading-data#data_formats>
 
 ### Videos
-- What is BigQuery? <https://www.youtube.com/watch?v=7vSg48Kdx34>
 - Intro to Analytics Hub <https://www.youtube.com/watch?v=BhV7MKNZ3XQ>
 - Getting started with BigQuery <https://www.youtube.com/watch?v=d3MDxC_iuaw>
 
