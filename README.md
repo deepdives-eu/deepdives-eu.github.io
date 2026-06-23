@@ -31,8 +31,12 @@ In case you notice any stale links or mistakes in the material, please consider 
 
 ## Google Cloud
 
-- [Google Cloud Fundamentals: Core Infrastructure](google/FundamentalsCoreInfrastructure.md)
+- [Gemini Enterprise Essentials for Business and Power Users](google/GeminiEnterpriseEssentialsForBusinessAndPowerUsers.md)
 - [Getting Started with Google Kubernetes Engine](google/GettingStartedGKE.md)
+- [Google Cloud Fundamentals: Core Infrastructure](google/FundamentalsCoreInfrastructure.md)
+- [Introduction to Data Analytics on Google Cloud](google/IntroductionToDataAnalyticsOnGoogleCloud.md)
+- [Introduction to Data Engineering on Google Cloud](google/IntroductionToDataEngineeringOnGoogleCloud.md)
+- [Introduction to Generative AI for Decision Makers](google/IntroductionToGenerativeAIForDecisionMakers.md)
 
 ## deepdives.eu
 
