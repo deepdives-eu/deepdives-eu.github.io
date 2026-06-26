@@ -24,7 +24,7 @@ Lab recording playlist <https://www.youtube.com/playlist?list=PLbOwD4pDuqPZEUstb
 - Google Compute Engine <https://cloud.google.com/products/compute?hl=en>
 - Google Kubernetes Engine (GKE) <https://cloud.google.com/kubernetes-engine?hl=en>
 - Google App Engine <https://cloud.google.com/appengine?hl=en>
-- Cloud Functions <https://cloud.google.com/functions?hl=en>
+- Cloud Run functions <https://cloud.google.com/functions?hl=en>
 - Cloud Run <https://cloud.google.com/run?hl=en>
 - Google Cloud infrastructure <https://cloud.google.com/infrastructure?hl=en>
 - Cloud locations <https://cloud.google.com/about/locations>
@@ -54,7 +54,7 @@ Lab recording playlist <https://www.youtube.com/playlist?list=PLbOwD4pDuqPZEUstb
 - Say hello to serverless containers with Cloud Run <https://www.youtube.com/watch?v=nhwYc4StHIc>
 - Moving serverless forward with Cloud Run <https://www.youtube.com/watch?v=R3YF8uly_gw>
 - Introduction to Cloud Run <https://www.youtube.com/watch?v=1t94tdyojs0>
-- How does networking work across Google’s data centers? <https://www.youtube.com/watch?v=2R-UVdw6thI>
+- How does networking work across Google's data centers? <https://www.youtube.com/watch?v=2R-UVdw6thI>
 - Google Cloud Platform resource management <https://www.youtube.com/watch?v=MzclA_hdNLY>
 - Cloud IAM in a minute <https://www.youtube.com/watch?v=zd5d9Vv1ZFE>
 - What is IAM Policy? <https://www.youtube.com/watch?v=WAKfcZ3zUg4>
@@ -79,10 +79,14 @@ Lab recording playlist <https://www.youtube.com/playlist?list=PLbOwD4pDuqPZEUstb
 - What are Containers? <https://cloud.google.com/learn/what-are-containers>
 - OCI Image Format Specification <https://github.com/opencontainers/image-spec>
 - Cloud Build <https://cloud.google.com/build?hl=en>
+- Cloud Build documentation <https://cloud.google.com/build/docs>
 - Artifact Registry <https://cloud.google.com/artifact-registry>
+- Artifact Registry documentation <https://cloud.google.com/artifact-registry/docs>
 
 ### Videos
 - Getting Started with Containers and Google Kubernetes Engine (Cloud Next '18) <https://www.youtube.com/watch?v=znhnDHAPCZE>
+- Intro to Artifact Registry <https://www.youtube.com/watch?v=712Y0KpeHok>
+- How to run containers on Kubernetes <https://www.youtube.com/watch?v=_2fiMli8p3E>
 
 ### Labs
 
@@ -94,12 +98,16 @@ Lab recording playlist <https://www.youtube.com/playlist?list=PLbOwD4pDuqPZEUstb
 ### Websites
 - Kubernetes documentation <https://kubernetes.io/docs/home/>
 - Google Kubernetes Engine documentation <https://cloud.google.com/kubernetes-engine/docs>
+- GKE Autopilot overview <https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview>
+- Choose a GKE mode of operation <https://cloud.google.com/kubernetes-engine/docs/concepts/choose-cluster-mode>
+- GKE Standard vs Autopilot comparison <https://cloud.google.com/kubernetes-engine/docs/resources/autopilot-standard-feature-comparison>
 
 ### Videos
 - What is Google Kubernetes Engine (GKE)? <https://www.youtube.com/watch?v=Rl5M1CzgEH4>
 - Why choose Google Kubernetes Engine? <https://www.youtube.com/watch?v=dt2NjPIISdA>
 - Introducing GKE Autopilot <https://www.youtube.com/watch?v=_JKsv2BtAnY>
 - The latest from Google Kubernetes Engine (NeXT '23) <https://youtu.be/H0qoy8twa2Q?si=a8OBRYlaDnNWto1R>
+- Getting started with Kubernetes <https://www.youtube.com/watch?v=LYcHaDDcCYo>
 
 ### Labs
 
@@ -111,6 +119,12 @@ Lab recording playlist <https://www.youtube.com/playlist?list=PLbOwD4pDuqPZEUstb
 
 ### Websites
 - kubectl documentation <https://kubernetes.io/docs/reference/kubectl/>
+- kubectl cheat sheet <https://kubernetes.io/docs/reference/kubectl/cheatsheet/>
+- Deploying a containerized application on GKE <https://cloud.google.com/kubernetes-engine/docs/deploy-app-cluster>
+- Exposing applications using Services <https://cloud.google.com/kubernetes-engine/docs/how-to/exposing-apps>
+
+### Videos
+- Getting started with Kubernetes <https://www.youtube.com/watch?v=LYcHaDDcCYo>
 
 ### Labs
 

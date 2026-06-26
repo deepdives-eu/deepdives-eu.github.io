@@ -31,8 +31,13 @@ In case you notice any stale links or mistakes in the material, please consider 
 
 ## Google Cloud
 
+- [Agentic AI Governance Essentials](google/AgenticAIGovernanceEssentials.md)
+- [Agent Observability on Google Cloud](google/AgentObservabilityOnGoogleCloud.md)
+- [Automation with Gemini for Google Workspace - Essentials](google/AutomationWithGeminiForGoogleWorkspaceEssentials.md)
 - [Gemini Enterprise Essentials for Business and Power Users](google/GeminiEnterpriseEssentialsForBusinessAndPowerUsers.md)
 - [Getting Started with Google Kubernetes Engine](google/GettingStartedGKE.md)
+- [Getting Started with Terraform for Google Cloud](google/GettingStartedWithTerraformForGoogleCloud.md)
+- [Google AI Integration for General Workflows](google/GoogleAIIntegrationForGeneralWorkflows.md)
 - [Google Cloud Fundamentals: Core Infrastructure](google/FundamentalsCoreInfrastructure.md)
 - [Introduction to Data Analytics on Google Cloud](google/IntroductionToDataAnalyticsOnGoogleCloud.md)
 - [Introduction to Data Engineering on Google Cloud](google/IntroductionToDataEngineeringOnGoogleCloud.md)
