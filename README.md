@@ -12,6 +12,7 @@ In case you notice any stale links or mistakes in the material, please consider 
 
 - [Advanced Architecting on AWS](AWS/AdvancedArchitectingOnAWS.md)
 - [Advanced Developing on AWS](AWS/AdvancedDevelopingOnAWS.md)
+- [Advanced Generative AI Development on AWS](AWS/AdvancedGenerativeAIDevelopmentOnAWS.md)
 - [Amazon SageMaker Studio for Data Scientists](AWS/AmazonSageMakerStudioForDataScientists.md)
 - [Architecting on AWS](AWS/ArchitectingOnAWS.md)
 - [Authoring Visual Analytics Using Amazon QuickSight](AWS/AuthoringVisualAnalyticsUsingQuickSight.md)
@@ -27,6 +28,7 @@ In case you notice any stale links or mistakes in the material, please consider 
 - [Practical Data Science with Amazon SageMaker](AWS/PracticalDataScienceWithAmazonSageMaker.md)
 - [Running Containers on Amazon Elastic Kubernetes Service](AWS/RunningContainersOnAmazonElasticKubernetesService.md)
 - [Security Engineering on AWS](AWS/SecurityEngineeringOnAWS.md)
+- [Spec-Driven Development with Kiro](AWS/SpecDrivenDevelopmentWithKiro.md)
 - [The Machine Learning Pipeline on AWS](AWS/TheMachineLearningPipelineOnAWS.md)
 
 ## Google Cloud
