@@ -20,7 +20,7 @@ Lab environment: [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-
 
 Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
 
-Recommended prerequisite course: [Developing Generative AI Applications on AWS](https://aws.amazon.com/training/classroom/developing-generative-ai-applications-on-aws/)
+Recommended prerequisite course: [Developing Generative AI Applications on AWS](https://deepdives.eu/courses/aws/developing-generative-ai-applications-on-aws/)
 
 ## Module 1: Foundation Model Selection and Configuration
 
@@ -483,8 +483,8 @@ Recommended prerequisite course: [Developing Generative AI Applications on AWS](
 
 ### Courses
 
-- [Developing Generative AI Applications on AWS](https://aws.amazon.com/training/classroom/developing-generative-ai-applications-on-aws/)
-- [Spec-Driven Development with Kiro course outline (PDF)](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/training/approved/pdfs/classroom-training/spec-driven-development-with-kiro.pdf)
+- [Developing Generative AI Applications on AWS](https://deepdives.eu/courses/aws/developing-generative-ai-applications-on-aws/)
+- [Spec-Driven Development with Kiro](https://deepdives.eu/courses/aws/spec-driven-development-with-kiro/)
 - AWS Skill Builder [courses](https://explore.skillbuilder.aws/learn)
 - [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/)
 

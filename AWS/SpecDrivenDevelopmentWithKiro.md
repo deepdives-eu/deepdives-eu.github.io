@@ -364,8 +364,8 @@ The tool itself: [Kiro](https://kiro.dev/), [Kiro documentation](https://kiro.de
 
 ### Courses
 
-- [Developing Generative AI Applications on AWS](https://aws.amazon.com/training/classroom/developing-generative-ai-applications-on-aws/)
-- [Advanced Generative AI Development on AWS](https://aws.amazon.com/training/classroom/advanced-generative-ai-development-on-aws/)
+- [Developing Generative AI Applications on AWS](https://deepdives.eu/courses/aws/developing-generative-ai-applications-on-aws/)
+- [Advanced Generative AI Development on AWS](https://deepdives.eu/courses/aws/advanced-generative-ai-development-on-aws/)
 - AWS Skill Builder [courses](https://explore.skillbuilder.aws/learn)
 - [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/)
 
