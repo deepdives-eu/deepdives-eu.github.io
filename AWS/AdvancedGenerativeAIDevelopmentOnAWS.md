@@ -18,7 +18,49 @@ The official course material: [eVantage Bookshelf (VitalSource)](https://evantag
 
 Lab environment: [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/)
 
-Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
+Additional material on [AWS Skill Builder](https://skillbuilder.aws/) related to this course. Digital courses are free with a Skill Builder account; labs, SimuLearn and Cloud Quest need a Skill Builder subscription; AWS Jams are classroom events.
+
+### Skill Builder: Digital courses (free)
+
+- [Amazon Bedrock Getting Started](https://skillbuilder.aws/learn/63KTRM86DQ/amazon-bedrock-getting-started/SC2Y3HMAUE)
+- [Building Generative AI Applications Using Amazon Bedrock](https://skillbuilder.aws/learn/TM4ZAXTGEZ/building-generative-ai-applications-using-amazon-bedrock/WM6Z6ZHU7K)
+- [Amazon Bedrock AgentCore Getting Started](https://skillbuilder.aws/learn/SXMNDA9AJ1/amazon-bedrock-agentcore-getting-started/6SGJD8ZV9A)
+- [AgentCore Evaluation on Amazon Bedrock](https://skillbuilder.aws/learn/YXGVR2SN6A/agentcore-evaluation-on-amazon-bedrock/HSC348EFFN)
+- [Getting Started with Amazon Bedrock Managed Knowledge Bases](https://skillbuilder.aws/learn/YJAMEMQPQR/getting-started-with-amazon-bedrock-managed-knowledge-bases/ZJA7HBDYFS)
+- [Evaluate and Enhance RAG Performance with Amazon Bedrock](https://skillbuilder.aws/learn/44TZ6CW5MX/evaluate-and-enhance-rag-performance-with-amazon-bedrock/DXZQCCJYQ2)
+- [Building cost-effective RAG applications with Amazon Bedrock Knowledge Bases and Amazon S3 Vectors](https://skillbuilder.aws/learn/ZPBHATP5N5/building-costeffective-rag-applications-with-amazon-bedrock-knowledge-bases-and-amazon-s3-vectors/EQASA8ZE98)
+- [Building Safe and Responsible Generative AI Applications with Amazon Bedrock Guardrails](https://skillbuilder.aws/learn/D3V2B7RKDP/building-safe-and-responsible-generative-ai-applications-with-amazon-bedrock-guardrails/GDRPYRKKXW)
+- [Prompt Engineering Best Practices for Amazon Bedrock Models](https://skillbuilder.aws/learn/MHSGBX3396/prompt-engineering-best-practices-for-amazon-bedrock-models/SEAYU5EXRC)
+- [Advanced Prompt Caching and Response Optimization](https://skillbuilder.aws/learn/NKC77SUAMZ/advanced-prompt-caching-and-response-optimization/96SCKTBPFN)
+- [Exploring Amazon Nova models using Amazon Bedrock](https://skillbuilder.aws/learn/VY9AD42GMS/exploring-amazon-nova-models-using-amazon-bedrock/XBBTWMHCSW)
+- [Monitoring and Troubleshooting Generative AI Applications on AWS](https://skillbuilder.aws/learn/M2YUBNQF9W/monitoring-and-troubleshooting-generative-ai-applications-on-aws/BF93G29BS4)
+
+### Skill Builder: Self-paced labs (subscription required)
+
+- [Lab - Develop Retrieval Augmented Generation (RAG) Applications with Amazon Bedrock Knowledge Bases](https://skillbuilder.aws/learn/8EJFZ7R45W/lab--develop-retrieval-augmented-generation-rag-applications-with-amazon-bedrock-knowledge-bases/7B21X9MR8W)
+- [Lab - Develop Conversation Pattern with Amazon Bedrock APIs](https://skillbuilder.aws/learn/46TU77TNJG/lab--develop-conversation-pattern-with-amazon-bedrock-apis/6319ZBY9Z4)
+- [Lab - Building Secure and Responsible Gen AI with GuardRails for Amazon Bedrock](https://skillbuilder.aws/learn/DEFW74BV18/lab--building-secure-and-responsible-gen-ai-with-guardrails-for-amazon-bedrock/EWW6F5XMSH)
+- [Lab - Build and Evaluate RAG Applications using Knowledge Bases for Amazon Bedrock](https://skillbuilder.aws/learn/JRGWCFYT67/lab--build-and-evaluate-rag-applications-using-knowledge-bases-for-amazon-bedrock/A4MN58JB7A)
+- [Lab - Explore Amazon Bedrock Agents integrated with Knowledge Bases and Guardrails](https://skillbuilder.aws/learn/EYJP8ZK9VK/lab--explore-amazon-bedrock-agents-integrated-with-knowledge-bases-and-guardrails/R3GGAEJHGG)
+- [Lab - Deploying Intelligent Agents with Amazon Bedrock AgentCore Runtime](https://skillbuilder.aws/learn/WDJZ5VUCHG/lab--deploying-intelligent-agents-with-amazon-bedrock-agentcore-runtime/JYQQ287BB7)
+- [Lab - Enhance and Scale Agents with Amazon Bedrock AgentCore](https://skillbuilder.aws/learn/XWDBJVXSDD/lab--enhance-and-scale-agents-with-amazon-bedrock-agentcore/WFVNB1BT87)
+- [Lab - Monitor Agent Performance and Telemetry using AgentCore Observability](https://skillbuilder.aws/learn/JKJ5QK336Q/lab--monitor-agent-performance-and-telemetry-using-agentcore-observability/8KPZAQEA62)
+
+### Skill Builder: Learning plans and exam prep
+
+- [Generative AI Learning Plan for Developers (includes labs)](https://skillbuilder.aws/learning-plan/5C9XQBTXBB/generative-ai-learning-plan-for-developers-includes-labs/EGATKJP13J)
+- [AWS Generative AI Developer Advanced Learning Plan (includes Labs)](https://skillbuilder.aws/learning-plan/BGTH16YCTU/aws-generative-ai-developer-advanced-learning-plan-includes-labs/ZDN46CX881)
+- [Builder Labs: Agentic AI on AWS](https://skillbuilder.aws/learning-plan/FJMJBTFKU6/builder-labs-agentic-ai-on-aws/UT85ZNH32F)
+- [Exam Prep Plan: AWS Certified Generative AI Developer - Professional (AIP-C01 - English)](https://skillbuilder.aws/learning-plan/9VXVGYT38G/exam-prep-plan-aws-certified-generative-ai-developer--professional-aipc01--english/4SCMN2659K)
+- [Exam Prep Plan: AWS Certified AI Practitioner (AIF-C01 - English)](https://skillbuilder.aws/learning-plan/3NRN71QZR2/exam-prep-plan-aws-certified-ai-practitioner-aifc01--english/FBV4STG94B)
+- [Exam Prep Plan: AWS Certified Machine Learning Engineer - Associate (MLA-C02 - English)](https://skillbuilder.aws/learning-plan/XGYSGHMJD2/exam-prep-plan-aws-certified-machine-learning-engineer--associate-mlac02--english/5FD2DC27G1)
+
+### Skill Builder: Jams and game-based learning
+
+- [AWS Jam - Building Agentic AI with Amazon Bedrock AgentCore](https://skillbuilder.aws/learn/PERHND6KCZ/aws-jam--building-agentic-ai-with-amazon-bedrock-agentcore/35TP95Y4RY)
+- [AWS Jam - Developing Generative AI Applications on AWS](https://skillbuilder.aws/learn/3G4S4NN2T4/aws-jam--developing-generative-ai-applications-on-aws/AXVS89SSWU)
+- [AWS Cloud Quest: Generative AI Practitioner](https://skillbuilder.aws/learn/5YB3FCEE1H/aws-cloud-quest-generative-ai-practitioner/26A81MG83V)
+- [AWS SimuLearn: Generative AI Architect](https://skillbuilder.aws/learning-plan/CVTBV11V1K/aws-simulearn-generative-ai-architect/U39NTGR28K)
 
 Recommended prerequisite course: [Developing Generative AI Applications on AWS](https://deepdives.eu/courses/aws/developing-generative-ai-applications-on-aws/)
 

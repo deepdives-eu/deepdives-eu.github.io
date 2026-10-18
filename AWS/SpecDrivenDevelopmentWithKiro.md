@@ -18,9 +18,50 @@ The official course material: [eVantage Bookshelf (VitalSource)](https://evantag
 
 Lab environment: [AWS Builder Labs](https://aws.amazon.com/training/digital/aws-builder-labs/)
 
-Additional material: [AWS Skill Builder](https://explore.skillbuilder.aws/)
-
 The tool itself: [Kiro](https://kiro.dev/), [Kiro documentation](https://kiro.dev/docs/), [Kiro changelog](https://kiro.dev/changelog), [Kiro blog](https://kiro.dev/blog)
+
+Additional material on [AWS Skill Builder](https://skillbuilder.aws/) related to this course. Digital courses are free with a Skill Builder account; labs, SimuLearn and Cloud Quest need a Skill Builder subscription; AWS Jams are classroom events.
+
+### Skill Builder: Digital courses (free)
+
+- [Kiro Getting Started](https://skillbuilder.aws/learn/CZ6AFW69H4/kiro-getting-started/EVT6CP3Y93)
+- [Spec-Driven Development with Kiro](https://skillbuilder.aws/learn/3GD2CGPENW/specdriven-development-with-kiro/T2YSHSXE5T)
+- [Introduction to Kiro powers](https://skillbuilder.aws/learn/7HAM2VYM8B/introduction-to-kiro-powers/AYD7S79GHB)
+- [Kiro: From Basics to Advanced Features](https://skillbuilder.aws/learn/ZZ5R3KZ3FK/kiro-from-basics-to-advanced-features/N3CXPBTYKS)
+- [Kiro in Action: A Developer's Walkthrough](https://skillbuilder.aws/learn/JEKN25DZV3/kiro-in-action-a-developers-walkthrough/VHYD6EB2U7)
+- [Kiro Governance and Safety: Securing Agentic AI in Enterprises](https://skillbuilder.aws/learn/G87SJPQ8VK/kiro-governance-and-safety-securing-agentic-ai-in-enterprises/HKZXVKT9Y7)
+- [Kiro: Frontier Agent for Every Persona](https://skillbuilder.aws/learn/2XB42ZPE28/kiro-frontier-agent-for-every-persona/8BQZ2K5ZMW)
+- [Model Context Protocol (MCP) - Simply explained](https://skillbuilder.aws/learn/WSE7F92MPA/model-context-protocol-mcp--simply-explained/YP6AFKZECQ)
+- [Introduction to Agentic AI on AWS](https://skillbuilder.aws/learn/DNBD5MT8ZD/introduction-to-agentic-ai-on-aws/WAKAFK6UFY)
+- [Balancing speed and safety: A control framework for AI coding agents](https://skillbuilder.aws/learn/XW948V98G4/balancing-speed-and-safety-a-control-framework-for-ai-coding-agents/SKCG4WHAP1)
+- [Responsible Artificial Intelligence Practices](https://skillbuilder.aws/learn/1H631ZWCTP/responsible-artificial-intelligence-practices/BN51NEFJNG)
+
+### Skill Builder: Self-paced labs (subscription required)
+
+- [Lab - Structured Approach to AI coding with Spec-Driven Development on Kiro](https://skillbuilder.aws/learn/J74A9BP8SM/lab--structured-approach-to-ai-coding-with-specdriven-development-on-kiro/VDK8N2DMKC)
+- [Lab - Enhance Production Applications with AI-assisted Development in Kiro](https://skillbuilder.aws/learn/Y1UWPG4AZG/lab--enhance-production-applications-with-aiassisted-development-in-kiro/9J85ATWKYQ)
+- [Lab - Troubleshoot Application Issues with Kiro CLI](https://skillbuilder.aws/learn/NMYZM78EG9/lab--troubleshoot-application-issues-with-kiro-cli/TSPPC6B671)
+- [Lab - Security posture assessment and remediation using the Kiro CLI](https://skillbuilder.aws/learn/YJ8ZMQTF2Z/lab--security-posture-assessment-and-remediation-using-the-kiro-cli/D92Y72CFY8)
+- [Lab Tutorial - Building Your First Model Context Protocol (MCP) Server (BETA)](https://skillbuilder.aws/learn/BN45G4ENQZ/lab-tutorial--building-your-first-model-context-protocol-mcp-server-beta/7PBM4Y7FJ1)
+
+### Skill Builder: Learning plans and exam prep
+
+- [Amazon Q Developer Knowledge Badge Readiness Path](https://skillbuilder.aws/learning-plan/CH4MJ2PWUF/amazon-q-developer-knowledge-badge-readiness-path/D8VJ1EHK7H)
+- [AI Driven Development Lifecycle Knowledge Badge Readiness Path](https://skillbuilder.aws/learning-plan/G9T931Z4W2/ai-driven-development-lifecycle-knowledge-badge-readiness-path/DZKR6W1HKN)
+- [AWS Agentic AI Learning Plan](https://skillbuilder.aws/learning-plan/FF96MG9HUV/aws-agentic-ai-learning-plan/KDADKA8G4G)
+- [Generative AI Learning Plan for Developers (includes labs)](https://skillbuilder.aws/learning-plan/5C9XQBTXBB/generative-ai-learning-plan-for-developers-includes-labs/EGATKJP13J)
+- [Exam Prep Plan: AWS Certified AI Practitioner (AIF-C01 - English)](https://skillbuilder.aws/learning-plan/3NRN71QZR2/exam-prep-plan-aws-certified-ai-practitioner-aifc01--english/FBV4STG94B)
+- [Exam Prep Plan: AWS Certified Developer - Associate (DVA-C02 - English)](https://skillbuilder.aws/learning-plan/ZWHYYQBTUK/exam-prep-plan-aws-certified-developer--associate-dvac02--english/NG34SRVV2G)
+- [Exam Prep Plan: AWS Certified Generative AI Developer - Professional (AIP-C01 - English)](https://skillbuilder.aws/learning-plan/9VXVGYT38G/exam-prep-plan-aws-certified-generative-ai-developer--professional-aipc01--english/4SCMN2659K)
+
+### Skill Builder: Jams and game-based learning
+
+- [AWS Jam - Spec-Driven Development with Kiro](https://skillbuilder.aws/learn/RDTC69YH1J/aws-jam--specdriven-development-with-kiro/9TZXNWV3JK)
+- [AWS SimuLearn: AI-Assisted Development with Kiro](https://skillbuilder.aws/learn/QEEKMRVUX4/aws-simulearn-aiassisted-development-with-kiro/ZH91AZUHBM)
+- [AWS SimuLearn: Building Apps with Kiro Specs and Hooks](https://skillbuilder.aws/learn/YVKY1T2U1R/aws-simulearn-building-apps-with-kiro-specs-and-hooks/KRP949FFYJ)
+- [AWS SimuLearn: AI Development Lifecycles with Kiro](https://skillbuilder.aws/learn/K9HV5XMFSC/aws-simulearn-ai-development-lifecycles-with-kiro/PDRVZP54BS)
+- [AWS Cloud Quest: Generative AI Practitioner](https://skillbuilder.aws/learn/5YB3FCEE1H/aws-cloud-quest-generative-ai-practitioner/26A81MG83V)
+
 
 ## Module 1: Introduction to Agentic Development with Kiro
 
