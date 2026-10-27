@@ -18,6 +18,7 @@ In case you notice any stale links or mistakes in the material, please consider 
 - [Authoring Visual Analytics Using Amazon QuickSight](AWS/AuthoringVisualAnalyticsUsingQuickSight.md)
 - [AWS Technical Essentials](AWS/AWSTechnicalEssentials.md)
 - [Build Modern Applications with AWS NoSQL Databases](AWS/BuildModernApplicationsWithAWSNoSQLDatabases.md)
+- [Building Advanced Agentic Systems on AWS](AWS/BuildingAdvancedAgenticSystemsOnAWS.md)
 - [Building Data Lakes on AWS](AWS/BuildingDataLakesOnAWS.md)
 - [Cloud Operations on AWS](AWS/CloudOperationsOnAWS.md)
 - [Developing Generative AI Applications on AWS](AWS/DevelopingGenerativeAIApplicationsOnAWS.md)
