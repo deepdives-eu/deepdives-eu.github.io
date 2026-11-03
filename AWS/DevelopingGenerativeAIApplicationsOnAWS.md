@@ -220,3 +220,15 @@ Additional material: [AWS Skill Builder](https://skillbuilder.aws/)
 ### Videos
 
 - [AWS Online Tech Talks](https://aws.amazon.com/events/online-tech-talks/)
+
+## Extra material
+
+Additional diagrams and summaries prepared for this course by deepdives.eu.
+
+- Module 2: [Top K and top P inference parameters (PNG)](DevelopingGenerativeAIApplicationsOnAWSExtras/module%202%2C%20top%20K%20-%20top%20P.png)
+- Module 7: [Evaluation in one diagram (PNG)](DevelopingGenerativeAIApplicationsOnAWSExtras/Module%207%20evaluation%20-%20one%20diagram.png)
+- Module 7: [RAG evaluation in one diagram (PNG)](DevelopingGenerativeAIApplicationsOnAWSExtras/module%207%20RAG%20evaluation%20-%20one%20diagram.png)
+- Module 7: [RAG evaluation metrics (PDF)](DevelopingGenerativeAIApplicationsOnAWSExtras/module%207%20RAG%20evaluation%20metrics.pdf)
+- Module 7: [Context metrics explained (PDF)](DevelopingGenerativeAIApplicationsOnAWSExtras/module%207%20Context-Metrics-Explained.pdf)
+- Modules 9 and 10: [Agent services on AWS in one diagram (PNG)](DevelopingGenerativeAIApplicationsOnAWSExtras/Agent%20services%20on%20AWS%20-%20one%20diagram.png)
+- Modules 9 and 10: [Amazon Bedrock Agents vs. Strands Agents vs. Amazon Bedrock Flows (PNG)](DevelopingGenerativeAIApplicationsOnAWSExtras/Bedrock%20Agents%20-%20Strands%20Agents%20-%20Bedrock%20Flows.png)
